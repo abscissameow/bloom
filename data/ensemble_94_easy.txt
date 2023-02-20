@@ -1,0 +1,42 @@
+ Let X be the length of the first book. Let Y be the length of the second book. And let Z be the length of the third book. If John wishes to write 3 books, he will write 2*X + 2*Y + Z.He wrote X on Monday so 2 * X = X + 2 on Tuesday and 4 * X on Thursday.Therefore, he would have to write 2*(X + 2) + 2*(4 * X + 2) = 4 * (X + 2) = X + 2 on Friday.So he would have written X + 2 on Friday and wrote • on the weekend.The answer is X + 2.question: In a class, every student is assigned a root, centre, pitch,#
+
+ Let x be the number of books.Let y = 399/x.Therefore, x = 20y.Each page in the books will be 3 * x = 3x pages long.Since each book is 400 pages, each page is getting taken from 3 * 4 = 12 books.Thus, to get 3 books all together, it will take 20y -12 = 22y remaining pages.The number of pages in the first book is 20y = 22 - 1 = 21 pages.Use this to find the pages in each of the remaining 2 books.Therefore, the number of pages in the first book would be 21 x 2 = 42.The number of pages in the second book would be 21 - 1 x 2 = 20.A little algebra produces#
+
+ Algebra is helpful here.  The ratio of 30:400 = 6:3.  Therefore, John will need to write the books at a rate of 6 pages per hour.  The number of pages he will need X slates -- the amount of time to complete the pages -- is therefore:* * 6 slates* * 24 hours* * X=1616 pages = approx 24 days.Calculating the number of times he write se prende a same to obtain.The number of se prende johnian required writing in those 24 days would be 24 * 4 * X = 840 slates. Therefore, he would write X slates * 4 times = 4,096 slates = approx 16,买的, libros, to finish writing  the books.What#
+
+ Let tf be the time in which John wrote book number 3.So the first time would be tf / 2.  Since the first two books are 200 pages, then tf / 2 would be equal to 200 divided by 400 which gives us 5. (Since the second time is the first half, there must have been the first half of the first chapter, then the first half of the second chapter, then the second half of the second chapter, then the second half of the first chapter.)Using this same formula on the third book, we get tf / 4 which would be 4 divided by 400.  So the third book would be 2 hours. So after 24 hours of writing 3 books, the third book will be completed. Hence it would take John 3#
+
+ We know that 400 pages will be the number of pages in John's books and 3 will be the number of weeks that it will take him to write them.  So we will have 20 x 3 = 800 pages total which will be 400 pages a week.  Again, we know how many pages are in a week...we are receiving 8 pages a day which is 1/20th of a whole book.  Therefore, working from scratch, we can figure out how many pages we have left until John is done!  We have 6 weeks remaining so we know that each week we have 100 pages left until we reach 400.Then, there are 20 days left since we have already done 4 weeks.  Each day we have 50 pages left which is 1/20 of a#
+
+ Let t time in seconds.So, (20 x 1) x t = 400t = 400x20 = 20000.The answer is 20000.question: Pedro has to pay his 7.00 tax. He pays $1.00 to take the bus#
+
+ let S = the number of page per book.Let n be the total number of pages.If we multiply S - n on both sides of the equation, results in S - n * 20n = 450.Adding n - S = 400 results in 450 - 20 = 415.Since the square root of 419.284 = 3.17, we can say that it takes 39.35 days.The answer is 39.35 days. question:[/a]>> I know the sum of 2#
+
+ let x be the number of pages that John wrote in one day.Then 400/3 days = x.And since 400 is a whole number, the expression becomes 120 + x = x.Solve for x using 120/60, and we have 50.Then subtract 20 from each side get x = 40The answer is 40.The question may not have appeared on the exam, but you may have to piece it together from another question or all questions from the exambook.Answer 4 responses 0 points#
+
+ The following equation will be useful in such cases: (a + b) * c is the same as a * (b + c).Assuming that the length of writing will remain the same, this simplifies to: (a * b) * c = (a * (b + c)) * cSo the mathematically equal but much more pleasant equation is (a * b) * (c + d) = ((a * b) * c) * d = ((a * (b + c)) * a) * d = 0Now, our goal is to solve this equation for c and d.We know a, b, d are positive numbers so we can use absolute values on the right side. This reduces the equation to: (3a) * ((2a + 3d)) = 0We also know a, b, d are positive numbers so we can test to see whether or not the equation is true. Evaluating the right side of the equation will yield: ((3a)#
+
+ Let x be the number of books he wrote.  Then, x + 400 = 3(3B) + 400 = 840 days.So there are 840 days.Then, 240 x (40 x 3)/3 = 30720 pages.Computing the product and solving for x = 3 pages yields an answer of 3 pages. The time took to write 3 books is 3 x (30 720 pages)/3 =12 hours. The answer is 12 hours.question: Maria, a waitress at Clar#
+
+ Let W be the number of pages in the books.  Then, the number of pages in the books multiplied by the number of days in the week multiplied by the speed of the writing process is the total number of pages written every day.Let's say that the book's pages multiply by the day times the speed of the writing process equal 400.If John wrote W pages in this manner, an completing this process Wx3 is 400.Therefore, the time it takes to write 3 books that are 400 pages each would be: (800 + W * 43) / W (Sarokin). The time has been worked out to be 3 years, 10 months, and 13 days.  answer is 3/10/13.question: A label said 10 sheets of lighth#
+
+ Let's begin by saying that n = 200 and A = 400.Let us follow the generating function below
+$$ G(z) = z\left( z - sys_n \right) $$
+Then let's express n in terms of A
+$$ n = A\left( A + sys_n \right) $$
+And solve for sys_n.
+$$ sys_n = Hanna_z-lg_n(A) = l7人(z-A-n) $$
+$$ sys_n = A\left( A + botarA \right) $$
+And we solve again for botarA
+$$ botarA = AB - rgA $$
+Where r is the final number of words for the book and g is the number of words so far, and A = 400.
+$$ l7人(z-A-n) = 400 - A(z-A) - botarA = 400-A-nReqal(A)$$
+Then we can solve for n
+$$ n = z^4 - z^2 - A+#
+
+ Since John writes 20 pages per day, the amount of time it took him to write three 400 page books would be 200/300 which is 600/700 which is 1800/2000 = 7/14 which means 7 days to 1 hour and 4 minutes. Thus, it would take John 7/1.4 = 4.4 weeks. The answer is 4 weeks.question: Kate spends all of her money on coal and after she has eaten all of her coal she means to do nothing otherwise she can't eat#
+
+ Let x be the number of pages. Then 400/3 x 20 = 60 pages.When he scored those, he wrote 3 x 20 = 60 pages - 20 = 40 pages.Therefore, he wrote 3 books in 1 1/3 days.The answer is 1/3.question: Charles spent his free time by building a robot that can lift 10 pounds.  His robot weighs 28.5 pounds.  How many lbs. lifted by his robot?answer: Let x represent the number of lbs. the#
+
+ 400/(20x47) = 157.80x5.So it will take 300 days to write  157.8 × 5 = 3 books.there will be 2 more days.The answer is 300 - 2= 28 days.question:#
+

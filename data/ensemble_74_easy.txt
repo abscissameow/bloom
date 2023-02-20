@@ -1,0 +1,36 @@
+ Let A be the weight difference between the first and second person. So, the first person lost 27 - 7 = 20 kilograms.The second person lost 7 - (20 + 27) = 13-footer.The two remaining people lost 13-footer each from the first person's weight minus their own weight. Then the last two lost 43 feet.The answer is the difference = 27 - (20 + 13 + 7) - (43 + 27 + 7) = 16.The answer is 16.question#
+
+ The first person lost 27 + 52 = 89 kilograms.Then, the second person lost 7 - 89 = 127 kilograms.Then the third person lost 87 + 127 = 190 kilograms.The four people lost a total of 190 + 190 + 190 + 190 = 960 kilograms.Therefore, the four people lost 3 * (190/190) = 20 kilograms.The answer is 20.question: Dale decided to buy a container of ice for $4.99, along with a $15#
+
+ Let x represent the number of kilograms that the first person lost and y represent the total weight of all the other people.Then, the first person will lose x - 27 = 70 kilograms of weight.Since all the other people lost the same amount of weight y, the equation can be rewritten as x - 7 = y.Therefore, all the other people must have lost 70 x 3/4 = 40 kilograms of weight. The value of x and y is 15 and 43.Therefore x - 7 = 15 and y = 43.Then x = 7, and y = 43 - 7 = 40.The answer is 40.question: Ellie wants to play soccer next weekend. If the coach has to bring 10 players, that number#
+
+ Let A be the first person's weight loss. B be the second person's weight loss. Then 70 - A - (27 + (7 – A)) = 8.Using coefficients, 12 + B = 70 - A - 8 = 70 - 27 - 8 = 8.Using coefficients, 12 + B - A = 7 - 25 = 3.The answer is 26.question: Cody's class made a group project. Matthew and Annie helped each other for two hours while they worked on the project#
+
+ Let K be the number of kilograms lost by each person and let L, M be unknown numbers. So, there are 3 KPI.And make sure L + KPI + M KPI.Because when adding together all the numbers incidentally it should form a whole number. Therefore, the next expression should be KPI = KPI - M.Because when adding L and KPI, there is a value of L and KPI meet the conditions that two values sum up to a whole number.Therefore, the equation then becomes KPI = KPI + L which provides KPI = KPI - L - M.Writing down all the numbers as equations, the three equations will look like 3KPIL = http://www.youtube.com/watch?v=wGhxExB7OyI 4#
+
+ Let the first person's weight be 91 and the total weight be D1. Let the second person's weight be 79 and the total weight be D2*The first;person − 2nd person = 54 kilograms.The second two people added their two weights together to find the total.Let our total weight be D2 + D2 = 65 kilograms*The total weight of the first and second person is (79 + 91 ) = 90 kilograms.The weight of the last two people is -= old = 70 kilograms*The total weight of the last two people is old = 65 + 70 = 145 kilograms.The answer is 145.question: Selena made coffee and Carol brewed coffee. Selena needed more than one and a half cups of coffee to make#
+
+ Let Wp1 = 27, Wp2 = 7, and wp3 = 7.Then since each person lost the same amount, the equation simplifies to 27 + 7(wp1 - 7) + 7(wp2 - 7) = 0.Thus wp1 = wp2 = wp3 = 7.The answer is 7.question: Sandy owns a car. On Monday, she used 5 miles on her car. She drove 10 miles on Tuesday. She traveled 15 miles on Wednesday.#
+
+ First person lost 27. 2 people = 53 Since 7 people = 27 + 7 = 40, loss for the second person = 53 - 40 = 9 and tagloss for the last two people = 40 - 9 = 31.
+The total will be 3 + 7 + 9 = 18.The answer is 18.
+This level is Little Leagues level with 9 rapiers which means 9 strips are numbered 1 to 9. The missing number is the missing number in a group of 9.
+The list is given#
+
+ Let x be the amount that the first person lost. The second person lost x + 7. The third person lost x - 27. Then the last two people lost x - 7 = 46.Let y be the amount that the second person lost. The third person lost y + 7. Then the last two people lost y - 27 = 49.Subtracting 27 from both sides produces 37 = y - 7. And dividing by two produces 31 = y27. As a result, the last two people lost a total of 31.The answer is 31.All answers
+Decided to have an open discussion today. I wrote all possible answers in an excel spreadsheet. Then wrote a separate answer and explained it why it was the best answer.#
+
+ Let x be the total amount lost. Then 27 + 7x + (x + 2) = 103Assigning the constant to the fraction produces 27/7 + 2x + (x + 1) = 103Then it simplifies to 27/7 + (x + 1) = 3x. Adding the two equal co-efficients lets it become 2x + (x + 1) = 6. Subtracting B from both sides gives 3x - 7 = 4.Transferring 7 to both sides gives 3x - 4 = 2.Solving for x produces 27/7 + (x + 1) = 6.Then, the solution is 2.Then subtracting B from both sides gives 27 - 2 - 2 = 25.Multiplying by 2 on both sides gives (27 - 2) = (3y).Subtracting y from both sides produces 3 = 2x.Multiplying by 2 on both sides produces x = 2y.Then, the solution is y = 1. The answer is 1.question#
+
+ Let x be the first person's lost weight. Then 27 - x = 8.And let Y be the second people's lost weight. Then 7 - y = 8.Therefore, x + Y = 8.Now, let A be the third person's weight. If the answer is, how many kilograms did Y = 63.Then, let u = 65.99.Therefore, y = 63 - 65,99 - y = 6,38.The answer is 6,38.Question 11: Six#
+
+ The second person lost 27 - 7 = 16 kg.& Other 7.The other two people lost 64 - 7 = 47 kg.The answer is 34 + 47 = 88 kg. Question Pro Roger is playing missions against someone on top of the Leader#
+
+ Let A and B be the number of kilograms lost by the first two people. Then the total weight lost by the first two people is A + B.And the weight gained by the last two people would be A + B = 111.Thus, the amount of weight gained by the last two people would be 101 - 111 = 27 kilograms.The answer is 27.question: At his last work meeting, Bill gave $10 off the total price of each of three items. Brahm gave#
+
+ Let A=1, C=2. The expected result is A*(1+C) = 103.Therefore, the expected total of the four lose 107.Summing B and C over all four gives 7 + 7 = 14Thus, the expected sum of all the people (ASS) is A+(A+1)(A+2)(A+3) = 43.Then, solving the equation 63 - 14 = 3 gives 7 = B and C = 1.The result is 1 + 1 = 2.The answer is 2.question: A man set off with a load of coal.  He was asked to return a certain number of days later carrying as many coal bales as he could.  He carried a set weight for 15 days doing 10 of#
+
+ Let d, Gr, and G be the last three person's daily metabolizing rates. Then a, b, c, D are the 4 person's daily accumulating rates.This implies that d + a = 0, -b + d = 0, -(a + b) + c = 0, -(a - b) - c = 0, and -b - (a - b) = D.First, solve for the last person's daily accumulating rates:-a + b + c = 0.Then solve for the last person's weight change using another constant in the last equation. The answer is -(b - (a - b)) + c = 0.Then, let G = -b - (a - b) and solve for#
+
+
+

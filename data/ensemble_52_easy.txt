@@ -1,0 +1,50 @@
+ Using Baude's Theorem, Arnel had 14 total pencils and kept 3 pencils. Therefore, all his friends had 6 pencils each. So each box contained 6/6 = 1 pencil.Therefore, each box contained 1 pencil.The answer is 1.question: Grace, Kelly, and Lisa bought 3 boxes of popcorn and each box cost the same price, $10. Which means that Grace brought the same amount of money to the store as Kelly and Lisa combined. However, Grace paid#
+
+ Arnel had three pairs of ten pencils.So he kept 8 pencils from one of his three pairs.Similarly, each of his friends also had one of his three pairs of pencils.Therefore, Arnel's friends shared an eighth of his pencils, which means that each of his friends got 8/10 = 80% of his pencils.Since 8 = 1+8+...+8 = 1 + (8/10) = 8/10, that's the answer.But since we can't tell how#
+
+ We will first count the pencils in his box.So we have 10 + 9 + 8 = 27 pencils in his box.The remaining pencils need to be distributed evenly to the five friends, so the number of pencils each friend got would be 53/27 - 1/8 = 7.So, there are 7 pencils in each box.The answer is 7.question: The teachers in school want to make a pie chart for each class. They have an extra 7 pizza slices and they#
+
+ Let x be the number of pencils in each box.The total number of pencils is ten x 8 = 80 pencils.Then let y be the number of pencils that Arnel has.The total number of pencils that Arnel got is ten x y = 100 pencils.Which gives us the system of equations x + y = 80 x= 80 - 8 = 72 y= 80 - 10 = 78 Now rearranging the equations identifies the solutions as x = 7 and y = 8, adding the other solution of x = 4 finds the total number of pencils in each box as ten x 7 + 10 x 4 = 210.The answer is 210.question: Judy spent $5 on oranges and $5 on bananas. She#
+
+ Let x be the number of pencils remaining in each box.Then accus+(n-1) = accus*(n/y) - accus*(y - 1) = accus*(5-1) + accus*(4/2) - accus*(1/2) = accus*(1-0.5) + accus*(1-0.25) - accus*(0-1) = accus*(1-0.5) + accus*(0.5) = 4+2 = 6. Therefore, the number of pencils in each box is always 6.The answer is 6.question: Jane tells her sister, Claire, that she received no presents from anyone except her parents last year. If she misstated her truth then how many presents,#
+
+ Let B be the number of pencils Arnel gave to his friends Then 79 - B - 26 = 8.8 pencils occupy each box, there are 9 boxes total, so flask = 9*8/camhew pencils.So each box has 8 pencils, so flask = B/10.So the number of pencils in each is B/10 = Flask/10. The answer is "1".question: Ruben expressed some money in Florida Money to a friend in Maine money. #
+
+ Since they pay for turns, let x be the number of pencils Harry returns to Arnel and let y be the number of pencils Harry gets from Arnel.</s>
+Molecular clonality analysis of plasmacytic malignancies has been instrumental in the characterization of these tumors and their unique biological characteristics. The widespread use of peptidyl-DNA Nucleotide Oligosaccharide Fragments Fluorescent in situ Hybridization (PNA-FISH) and multiplex FISH have substantially increased the sensitivity for detecting incipient changes in cell chromosome rearrangements, enabling the detection of atypical cases of multiple myeloma previously classified as other grades according#
+
+ Let A be the number of pencils Arnel put in the ten boxes.  Let B be the number of pencils his five friends got. Then A + B = 10 -- (Arnel had pencil in every box).So, B = 10 * (8/(10 - B)).And B = 8 - 8/8 = 1.And back we have A = 10 - 1 = 9 pencils in each box. This is all there is.question: Paul earned $108. He paid $3.50 at the grocery store. Paul got 150 pencils for $1 at school. He has just written two summonses because he hasn't spent his pen change.  Bryant also got $9 at the grocery store. He bought 300 pencils#
+
+ Let x be the number of pencils that Arnel kept.Then it should be equal to the original number of pencils, so the equation is x + 9 = 10.Then, distribute 10 to x, so it becomes x + 10 = 20, and divide both sides by 10, so 20/100 = 2.Let x be the number of pencils given to each friend.Then: 19 pencils x 2 = 29 pencils5 pencils x 8/10 = 28 pencils8 pencils x 8/10 = 56 pencils Let (fundamental diagram) be k/k+1 = 6/7 = 1.Therefore, in this case, (fundamental diagram) can be expressed by (adjacent number). Thus, x = 56/5#
+
+ We should have 8 + 8 + 8 + 8 + 8 + 8 + 8 = 84.Then, the number should be 8 divided by 4, or 2.There are only ten boxes so we get ten box/2 = 2 boxes.The numbers are thus 1 and 2.Since there are two box per cadric/friend, the pencils are 2 per cadric/friend.The students got 8 pencils each so the pencils that are available are 1 and 2.Therefore, each cadric/friend received 2 pencils.The answer is 2.question: Carl added three equal quantities of wood and burned it all. The total weight of the wood that was formed was 78 pounds. If he had burned nine of the wood,#
+
+ It turns out that
+12 pencils is in each box. So, if the first ten boxes contained 12 pencils each, then the last box would contain 50/24 = 18 pencils only.
+
+A:
+
+1st step
+Comparing to numbers on either side, we have
+$$5+8+9+7+5=34\approx0.008674783689
+
+2nd step
+The numbers on either side are nearly the exact square root of the ratio
+$$34:100/11=4\approx0.0097.
+
+Proof
+We have 
+$$20\times(1-0.008674783689)=204\\
+11\times(1-1)=14
+
+The given pairs are such that if one number is less you subtract one#
+
+ Let A be the total number of pencils and M be the number of pencils each friend received.  A = 10.Let us set the number of pencils each friend received equal to 8.Therefore, A + 8 = A * 10, and 8 = 8*B where B is the number of pencils he shared with his five friends.Consequently,  M = 8*10
+The answer is 8*10 + 2 = 32.question: Betsy hates candy but#
+
+ Let Min the number of pencils in each box and let Number of boxes be 100%.Let Q = 105 min. Then Q - Min = 100 min. Chose min as 50 pencils.Now if there are five boxes, the answer is 50/5 = 10.Now let Number of boxes be 30% less than ideal, then Number of boxes equals 90%. Thus, 48 = Q - (90*10) = Q - ((30*100)*10) = (45*10#
+
+ Let A be the number of pencils in each box. Then A = 80/10 = 8.Now, let C1 - C2 - C3 - C4 - C5 = 10 pencils.Summing through these numbers gives A + 10C2 + 4C3 + 2C4 + 5C5 = 79 pencils.Which means, ten boxes contain 8 pencils in each box.That is for each box there are 8 pencils.Then, the answer is 8.</s>#
+
+ Let M be the number of pencils that he kept. Then let A be the number of pencils he gave to his five friends.So, in total, Arnel gave 11 pencils.According to his free book, the number of pencil in a box is 47% of the total number of pencil in all the boxes. Therefore, A:A = M:( M + 47 ) = M:(M + 47) = (M:(M + 47)) = M:( 47*47 ) = 2017M = 2017 divided by the number of pencils in the original box is 177.The answer is 177.question: Bo and Carol keep half the initial number of baseball cards. They each add a total of 2 cards to their#
+

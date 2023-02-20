@@ -1,0 +1,33 @@
+ Let x be the number earned in the main job.Then the second job will earn, 20/30 = 0.50 less.Thus, x = 25.Then, the total number of hours worked is 30*0.50 + 25 hours.Therefore, the earnings are 20x + 75x + 25 or 120.The answer is 120.question: Maria bought one black and one white sweater for making a pair. Until now, she made 2 pairs of sweaters which have 3 different sizes#
+
+ Let y be the amount of pay money per week.  We have y = 20 - 680/(60 * 2) = (40 * 2)/10 = (160 * 2)/5 = 360 * 2/6 = 480 * 2 = 720 (Cos = 40 * 2/6 - 480*2/6 = 240 * 2/9)Thus, 240, or four vingten, is the reasoning answer.The reasoning of this question is by easy conversion and detracting.question: In this situation, what#
+
+ As he works 30 hours at his main job, he earns 120 hours *$20/hour = $2,000.Turning the constant 20 into hours produces 20/30 =.6. So his average hourly rate is.6 * $20/hour = $6, after all.Summing his two salaries, we have 2,000 + 6,000 = $12,000 per week.Correct answer is $12,000 per week.</s>#
+
+ $(20 * (30 / 2)) / 7.1/2Therefore, James earns 20 + (20 * (30 / 2)) / 7.1/2 = (80 * (30 / 7)) / 6.25 = 375$5.75.  The answer is $375.question: Allen found a money collection box at a hazardous waste site.  On the cover was a picture of a lady with her legs up - naked.  There was a dollar coin in the hole.  He managed to get#
+
+ Let B be the amount of money he makes at his second job.  Then B = 20 hours x (20 - 20)/60 = 9/4 = 2.6 times the money he makes at his first job.Let A be the amount of money he makes at his first job.  Then 40 + B - A = 30 + 2.6 - A = 15.We only need to find the difference B -A.B = 20 - A = 10.Because B is negative, we can change order of the difference so it's B - A = 10 - 2.6 = 8.Let A be the amount of money he makes at his first job.Then 20 - B = A.Taking the difference B -A gives 20 - A = A#
+
+ The first part of the question is easy.  Wy theylo.  This means that he earns 30 hours*2 = 60 hours*5. Do$idogos that is 240 hours*20 hour$ per week.  The notation on the sheet makes me think it says he earns 20 hour$ a week.  That is wrong though. So, the answer is 240 hours*0.2 hour$.question: The number of bookmarks in a library is 150. Another 30% of those bookmarks were written#
+
+ Let W be the amount he earns per week.  Then let T be the total number of hours he's worked (30).  Let H be how many hours he worked at his main job (20).  The answer is W = T * (20 / 30) = ($2000 / $3000) * 10 = $100.000.question: Andronia will be driving her sister's car. Her car is 23 years old and she doesn't own a car warrant. She bought her sister a $20#
+
+ Let x be the number of hours that James works at his main job.  And let y be the number of hours that he works at the second job.  Let z be the earnings Jim made per hour from both jobs: Then, the total earnings over a fortnight can be written as z x. Since James is working 30 hours at the main job this means that the total earnings from the second job would be z x / 30 = 5.5 y. The answer is 5.5 y.#
+
+ Let x be the number of hours that James works at his main job.Then 30x hours are his first and second jobs.  Adding the values gives x1+30x2 = 90.so the value of the first job is x1+30x2 = 90.Standard life-cycle model says that the value of your second job is 60 percent of the value of your first job. Therefore, the value of his second job is 30 x 60/100 = 20 hours. Let U be the value of his first job. Then U = 20 hours.Therefore, his total weekly income would be U + 20 x 12 = 280.The answer is 280.question: Eleven apples were stolen at a fair that sets the price per apple at $5, and#
+
+Let X be the number of hours James works at his main job.  Let 1/10 be the number of hours that he works at his second job.Then, salariales are X * 20/1 + 20/1 X * 1/10Summary : X + X - 20 = 1 That means X = 21.Then, the starting (non net) salary would be (20 + 1) * 21 = 423.5The net total salary would be 423.5 * 0.8 = 301.6Answer: James earns 220, or 301.6 per week.question: Merrihue worked at the vet school for 90 minutes. Anna worked there for 90 minutes. If Merrihue worked at her main job for 45 minutes, how#
+
+ Let W be the total number of hours worked, W = 30 working days plus half the working days of his second job. So, W = 30 + 30 / 4 = 60. Let E be the total earnings, E = W x (20 4000 ) = 304000.  Then E / 60 = 120 per hour. Divide the work of 30 hours plus the work of the second job by 2 and get 12 working days. The work efficiency is W /(60 + 2 ) = 720 / 315 = 97.</s>INTRODUCTION
+Translational Sciences is an interdisciplinary research field with the goal of obtaining new therapeutic agents for the development of drugs for the treatment of human diseases based on proteins and other biomolecules. In the context of Proteomics,#
+
+ So, if we let, x be the total number of hours James works, then x = 30.Then the value of x was divided by 30 which we interpreted as an hourly rate.  45 divided by x is an hourly rate of $19.67($19.67 x 60 - 23.33 = $19.67).This admittedly somewhat counter intuitive answer seems to hold up under close examination.question: Linsey had 100 apples and 20 oranges.  She likes apples#
+
+ Let M be the time working at his main job and S the time working at his second job.The sum of times is M + S which is 40 hours.Then, he earned M * $20 per hour = $4,000 in his main job. Plus, he earned S * ($20 - 20%) = $700 per hour in his second job.So he earned $4,950 per week.The answer is 4,950.You can solve the equation for x = 7, and#
+
+ Let x be the hours worked.Since James works 30 hr, then his wage is x * 20. Concatenate that with half of that many hours of work = 60 hours x $10. Therefore he makes x * 10 + 60 * 10 = $4,000 a week.question: One of Sally's fingertips is cut by digging in too deep.  She puts iodine on the cut finger and it cures. Sally meets another girl and she has a bitten finger also.  She applies iodine to it to cure the bite. Sally also uses iodine on a পর্যায়ে, the other's fingers to keep them from becoming infected.  How many fingers have Sally had to treat for the iodine to have an effect?answer: Let x#
+
+ Let E be the goods earned per week and F be the goods earned per hour. Therefore, E*30 = E*(30 / 7) = F Since James earned 20 dollars an hour in hours worked at his main job and 5 dollars an hour in hours worked at his second job.  Thus, E = 20+10 = 35.Since there are 350 days in a week, E*350 = E*(35/7) = F. Therefore, F = 50.(20+35) = F = 50. The answer is 50.question: How many bucks is Cindy’s change? Her tip comes in the form of 10.05% of her bill. how much is Cindy’s money?answer:  Cindys tip was#
+
+
+

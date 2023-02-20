@@ -1,0 +1,30 @@
+ let’s look at the last page.This is a multiple. Answer: 5.Question : If the frequent itemset is E(A, C, D, E, F) and the support is 50%, when will this frequent itemset fall in#
+
+ Let x be the number of books.Cartara had a capacity of 80 books.There would be (80 - 8) = 72 books in the book bank.So the number of books of Joy is (80 - 8) ÷ 72 = 2.5.Therefore, there are actually 2 books of Joy.The answer is 2.5 therefor she finished the book in 120 minutes.question: On a website, a company offers not only dairy-free and egg-free but also gluten-free and#
+
+ Let T be the time it would take to read 120 pages. Then read 8 pages in 20 minutes = read 8 * 20/20 = 8 pages in 1 hourMultiply the answer by 1 hour = 8 * 1 = 8 values.Adding 8 values#
+
+ Let C be the number of hours.Let q be the number of pages.Then the number of minutes per page is 480/Q.Then the number of pages in each hour is 4Q.Then 100/18 pulls out 4Q.Adding up all of those numbers, we get 45 Q1/2 = 4(19 BID).Then we have 4(19 BID) * (45 - 80) = 120.The answer is 120.</s>#
+
+ Joy readers 8 pages per hour. So 20 /8 = 2 pages per hour. 60 pages in 2 hours is 120 (60/2) minutes.The answer is 120 (60/2) minutes.question: Three years ago, a woodworker cut#
+
+ Let n be the number of pages read.So - 8/hour = 60 - n/hour = 120 - n.Since n = 120, then 100/hour = 10.Therefore, n = 90.If we multiply times n and then add n to both sides, we get - 100/90 + 90 = 840.The answer is 840 hours.question: Kim always lives in a city 50 miles on the west side of Joseph and they travel by car. Kim leaves Joseph at breakfast#
+
+ Let x be the total number of pages read.Then the number of pages needed to be read until she has read 120 pages is x*20/60 = 5 x 20/60 = 80 pages.Therefore, the number of pages that will be read per question is 80/5= 16 pagesquestion: Willie got his essay up on time, so Alice finished her essay earlier than Tim. How many pages did Alice have to read before meeting Tim?answer: Let x be Alice's finish time.Let#
+
+ 8 pages is 240 minutes.Therefore, it will take her 240 x 8 = 20 hours./28 = 7.152 hours to read 120 pages.The answer is 7.152.question: It was my best single accomplishment this year to finish#
+
+ Let y be the number of pages in 120.Then y = 120/8 = 24 pages.  Let X be the number of pages that Joy can read in 20 minutes. Then X = 20/8 = 2.5 pages. As X + 2.5 = 23.5 so X = 2.5. As per the required answer 120/24 = 5 there will also be 5 pages that Joy doesn’t read and she will have that in her final result. So let X + 2.5 = 23#
+
+ Let t be the total time Joy used to read the book in hours.Here, t = 20 + 120 - 8 = 108.So the equation becomes 7.4 * 108 = 120.Let e be the pages needed to get to the end. So e is the number of pages that are to be read in the remaining time. Then e = 7.4 / 30.Now we can write the problem into the following format.Let T be the full reading time.Let C = total pages read.Then, T - C = pages to be read:Available Time hours elapsed time hours These values can be combined into the equation  - Libro 54: 30 x -> 12 = 15.1454 e-> 5. By Euler's Theorem,#
+
+ Let S be the number of pages that Joy read. Then 120 - S = 80.and S = 8 * 20/60 = 8150 minutes. Thus, S = 8150 / 20 = 42 hours, say.Then, let R be the number of pages that 4 hours is equal to. R = 240/42 = 60 pages.Let C be the number of pages that 2 hours is equal to. C = 60/2 = 18 pages.Then I * C = 18 * 60 = 1080 pages = 1080 pages. The answer is 1080/1200 = 0.83.Advice.If you want a good answer, learn how to solve word problems.If you still cannot understand a question, or do not know what to do,#
+
+ First we will show that usually we read the same number of pages per hour even if the book is far longer.  Let x be the number of pages that Joy reads.  Now we can separate the books in to pieces of the same length between Joy reads the end page.  So, when Joy reads each page, she has x parts of the book remaining.  This gives x parts to be the length of the book at Page x.  Then we count the number of pages that puts the book back together, and x is the total number of pages:Your total X is x + x + x... + x... +... + 1 = 120. and your total number of pages is x x... x... x...  . answer = 760total pages#
+
+ Joy can be 6 minutes which is 60 seconds per page.Let 120 minutes be x hours. Let 80 minutes be x diagonals. Let 20 minutes be x semi-dianges. The next 2x(2x + diagonal) 10 seconds.Thus, each page will be x times 7 seconds then each diagonal will be x times 20 seconds. The total (x + x + x)*tno = 1200 seconds. QuestionB - How many pages did you read?answer: Let x be the number of pages read. Let 12 complete pages be x segments. Let 30 fifths of a page be x fifths. Let 10 seconds be x seconds. There are (x+32) segments. The number of seconds contained in each fifth equals (504x#
+
+ Let G be the number of hours it will take her to read 120 pages.Let S be the number of pages read by Joy in 20 minutes.Then, 21 x G/200 = 8.So, it took Joy 8 x 20/200 = 120 page to read the book.The answer is 120.question: Lucie had a 60-minute math test. She could write 8 words in 25 minutes. How many minuted does it take her to write 120 words?answer: Let V be the#
+
+ Let x be the number of hours.and let c be the speed of reading in pages per hour (8 in the above example).Therefore, if it takes j = c x, then she will finish reading in j x = 120 pages.The equation will now become j x = 120.Let x = 120.Then the above would become c = ( 12 0) / 60 = 2.Therefore, she will read 2 pages per hour, so the above will become 2 = 8 60.The answer is 8.question: A person can ride in ain the speed of 122 miles per hour on an assembly line for 6 hours, change the speed to a slower speed of 54 miles per hour (the same as the first speed) for#
+

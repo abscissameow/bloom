@@ -1,0 +1,37 @@
+ Rachel is budgeting $100 for the shoes and dress.Let x be the number of shoes.Then, Rachel bought (9x + 1) / 2 = 9 shoes.Let y be the number of dresses.Then, Rachel paid (9y / 2 = 2 dresses.Therefore, the budget for the shoes and dress is The answer is 25.Unsolved problemsHere are some of the unsolved problems from other test takers.[If a test taker gets#
+
+ Let  A and  B be the budget that Rachel and Sara have, respectively, for shoes and dresses. Then  A / 2 + B = 150. dividing  A by  2 and adding  in front of it equals $75. That gives us: 27 = 150 / 2 + $75. This amounts to several hundred dollars, and because of the $1,000 extra for prizes, Rachel could buy another pair of shoes and another dress, arriving at a budget of about $1,000. The answer is $1,000.question: Emma was planning six concerts across three cities. She saved $6 per concert to cover her airfare to town A, then $8 per concert to cover her hotel lodging, and finally $5 per#
+
+ Let w be the budget, which is $400.Then, w/100 = $200 /$200 = 1.Let x be the number of $200 clothes Rachel wants to buy.Then, 3*x+299/100 = x + x / 100 = 3x + 499 / 100 = 4 = w.So
+Rachel should buy 4 x $200 = $800 in clothes.
+
+A:
+
+The answer to this is 40
+
+ I am going to justify why this might be  the answer. This is#
+
+ Let A be the total amount of money they want to spend. Then A = 50 + 200 = 300.And then they want the same thing which means A = 3 times the amount of money they want to spend which is1800.So, the equation is 1/3(1800) = 300.And the number they want to spend is only (1/3-1) times their budget which is 3/4 * 1800 = 900.So, they budget that much only for one pair of shoes and then they can spend 300 on another pair of shoes and dresses.The answer is 900.question: You have $45. Just for the joy of doing something simple, which complex item should you choose to represent the sum as a positive integer whose sum is 45?#
+
+ The budget for clothing equals the price of clothing (200) to the width of the pair of shoes (50) so the right side of the equation would be 200 x 2 = 400. Let Rachel's dress cost x1.The right side of the equation gives 520 so the left side must be x1.Combining the two expressions and solving for x gives 200 x 1 / 1 - 1.Then, divide both sides by that value to get x1 / 1 - 1 + 5000 = 500 / 16.That gives a value of x1 of -96 and a value of x2 of 96.Changing data from negative to positive for the variables x gives x1 of 49 and x2 of 97.The answer is 49.question: Carmelo costs $1.#
+
+ Let y be the cost of Sara's dress. Then (y + 100)/200 = y/100 = y = 25. Therefore, how much should Rachel spend on the pair of shoes? Lately Rachel has been practicing her "hairdo" by making her own hair braids, so her cost of her "braiding" is 50.Thus, there are (50 + 25) / 100 = 60 and 55 to buy the shoes. Therefore, there are (55 + 100)/200 = 175 and 85 to buy the dress. The answer is 80.question: Kevin received a new bicycle for 200. Suddenly, there was a goldfish delivering package and asked him to deliver 12 of them. However, he had only 50 bike#
+
+ Let old shoes be the number of pairs of shoes.Let new shoes be the number of new pairs of shoes.Let dress be the number of dresses.Let clothing be the number of clothing pieces or dresses purchased by each person.Then we have items(shiproducts) = ((old shoes + new + dress) * 3/2) * ((old + new + dress) 1/2).Information = ((old shoes + new + dress) * 3/2) * (new + dress) * 1/2.Quality = ((old shoes + new + dress) * 3/2) * 50/100.Thickness = ((old shoes + new + dress) * 3/2) * 200/100.Theories of the Beauty and Model Contests, Do you really meet#
+
+ That would go to Eleanor. sunk cost fallacy Rachel wanted to buy a pair of shoes and a dress but ultimately decided not to do so because Eleanor spilled some hot soup. If she watched the spout while she dried the dress then she still didn't have enough money. The sunk cost fallacy prevents her from buying the dress when she has the money, but prevents Jamie from buying the pair of shoes which did work out in the end.The sunk cost fallacy just occurred (and influenced) the decision if Rachel did buy the pair of shoes.question: Rose baked cookies for her mother's birthday today.  When she made the cookies, she applied half the stick of butter on a cookie.  After the cookies baked, she sprinkled#
+
+ Let S be the number of shoes Sara bought and R be the number of shoes Rachel wants to spend the same amount as Sara bought.  Let (S + 2R) be the total cost of both shoes and dress.That means 2(S + 2R) = 50 + $200 = $200 or 2S + 2R = 2D.Hence, 2S + 2R = (2D + 2S - 2R) = (50 + 200 - 44) = 44 + 8/(50 + 200) = 200 - 4/2 = 176.Thus, the number of shoes that Rachel bought would be 176.The answer is 176. question:Becca says "If I were to buy shoes on this budget, I would have to buy#
+
+ Let T be the number of pairs of shoes Rachel bought.Let C be the number of dresses that Rachel bought.Let C = C + 1.Then let T = T + C.Let S be the sum of all the new clothes.Then multiply S for the number of shoes and the number of dresses so that it becomes the total cost.Let B be the cost of Zara's shoes and let C be the cost of Zara's dress.Therefore, the total cost will be T * S = T + C * 2 = 300.Then let D be the number of days that the contest is held.Suppose B was the average of B divided by the number of days.Then T/(T + C) = 37.#
+
+ To spend twice as much as Sara does, Rachel needs to spend x *$200 + x *$200 = $800. So she needs to budget x *$50 + x *$200 = x *$200.Therefore, she needs to budget x*(200-50) = x*150 = 900.So the answer is 900.question: Sabrina bought three 4-digit numbers, A1, A2 and A3. She knows there are no numbers whose sum is exactly 54.#
+
+ Let a be the amount that Rachel spends on the shoes and dress.Then, a = 250.Then a = 50 x 2.Then, a = 100. Therefore, Rachel purchased a shoes and dress of value 100.The answer is 100.You can use similar techniques to find the answer for other parts of the budget.</s>#
+
+ The shirt cost $10 so the number of money they need to buy everything will be $90.The cost of the dress is half of what the shirt cost, so the new outfit will cost $45.Then the sum of the money they each need to buy something with the rest of the money they have is $105.The answer is 15.question: There are 45 red apples in a square top box. If 28 red apples are placed in a square bottom box, how many red apples will#
+
+ Let X be Rachel's money. Then the shoes cost 50 * X and the hair dressing costs 200 * (X + 1) So the total cost would be 2 * X + 200 * (X + 1) = 300. Assume we are told that the minimum deposit for the contest is $50. Then Sanders budget will be (X + 1) * X * 50 = 100.So she would spend (X + 1) * (X + 1) = 2 * (X + 1) = 2 * 200 = 400. For this aggregated information she needs 500 dollars in total, so that she can have enough to purchase the shoes and the dress.The answer is 400question: Vera has 800 cins in her bank account.#
+
+ Let s be the amount of money that Rachel spend on the shoes.Let t be the amount of money that Sara spent on the shoes.Then we would have t*50 = s*200.As s*50 t*200, the product t*50 = s*200.Using the property that the determinant of the coefficient matrix is zero (that is, ),we have 1000*44 = 8*44 so we have 8*44*1000= 500 From the last equation, we have 44/100 = 50.So, t = s/500.Therefore, Rachel ends up spending t = 4*s = 16 on the shoes.The answer is 200.The answer is 27.question: Let x = 2m where m is an#
+

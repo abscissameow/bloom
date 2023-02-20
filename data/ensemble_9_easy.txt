@@ -1,0 +1,33 @@
+ Let x be the number of extra hours that Tina works per shift.  Let y be the number of shifts that Tina works in a month.  Then x2 + (5 x y) = 30 + 2(5 x y) = 52.Compose x2, producing 52 - (5 x y) = y.Then, since 52 - 8 = 54 = y − 4, the answer is 2x + (5 x 34) = 25 + (5 x 34).
+
+good work RED DOLL#
+
+ Let Y be the number of hours after 8 worked.Then the answer is Y = 10 + 8 = 16.Then Y = 2(Y-1) = 2*1 =2.Let p = Y/(x + 1).Then p =#
+
+ Let x be the number of days she works.  We will calculate the total pay using x * x / 5 = 100.  Then we will take one half and divide it by two.  So that 100/2 = $50.00.  The answer is $50.00.question: Deepak performed 100 pushups every day. If Deepak increased his pushups twice as fast on Monday as on Wednesday. So that he performed 40 pushups on Monday and 60 on Wednesday, how many pushups did he#
+
+ If she makes 18.00 an hour in one shift, then she'd make 24.00 in a second shift. Since there are 10 hours that average work per day, then (24) / 10 = 1.25.  Then she's collecting 1.25 times one's own pay for twice the work.  Then she's collected 1.25 times $18 = 21.00.However, if she works 10 hours per day for 5 days, then she'd make 4.5 times one her work, $180.500, for half the work.The answer is $21. 00.question: Jill earns $4.00 an hour.  She works 11.85 minutes an hour.  Her employer pays $1.25 an hour for time she works#
+
+ Let x be the number of hours Tina works per shift.So, 7.5 hours works one day.  So 7.5 x 5 x 34.75 =  The total amount of money she makes is x - 1 + 53.50 = 320.50.So the total number of hours she worked is 10 - 5 = 5.The answer is 5.question: Jerry pays the electric bill monthly.  The bill is $7.50 more than usual.  Jerry has additional $50 in his savings#
+
+ Let W be her standard rate of pay.The standard rate of pay is W x time worked = W x 298.5 = $475.50.We get the desired result by adding the 1/2 standard hourly rate of pay.So the net hourly rate is W x time worked + 0.5 x time worked = W x 298.5 + 1/4 x 298.5 = $187.25.There are 5 days of work in this case, so the total duty hours left after a 5-day overtime is 298.5 hours (5 x 8 hours).So the sum of the working hours and overtime taken would be 485 hours. This is the same as the standard 550 hours that we would have gotten if we had worked#
+
+ Let X be the number of hours she works.  20 * 9 * 8 = 8200 needs to be divided into X + 8.Okay, BM does not make much money.  $$ { 8200 /  (20 + 8) } $$ = { "/  (200 * 9 * 8) } = /  (间的10*9*8) = /  (间的*8)  From this, the formula becomes (*(8) + = {  (8*+(8*)) $$, which is wrong.  So lets take it a step further: $$ 200 * 300 * 80 $$ =  $$   The ninth fortieth $80 $$ ah!!  Wow!!  We have $$   $$  Finally, $$  $$  $$  $$? (  $$  $$  $$?$$  $$  $$  ?? It equals $1009  $$   $$ Now the term  $$  $$  can be seen from here: $$  $$  $$  $$  $$  $$  $$ #
+
+ If we break it down into terms, each hour multiplied by the number of hours worked per day is the pay paid to the employee multiplied by 96 (seconds per day) divided by 60 minutes.For example, if Tina works one day, she makes 48 minutes x 1 hour = 48. And that is 48 hour = 9 hours.Each hour her pay is 9 hour times her hourly pay $18. Since she only works 5 days this works out to 960. Then multiply
+60 (minutes a day) times the number of days worked x her hourly pay + 1/2 her hourly pay times the number of hours worked per day and then divide it by the number of hours worked per day for the last X hours. In this case,#
+
+ If Tina worked 10 hours for 5 days, she would earn 5 * 3 * (18 / 5) = $108 per 5 days.  But Tina is eligible for Overtime, so the final salary will be 5 * 3 + (18 / 5) * (1/2 / 5) = $18. 50.This is the final salary.question:  In Rebecca's opinion, Bill is a good guy. Rebecca studied with Bill for 11 months. At the end of the 11th month, Bill irritated her and she treated him "cruel and unkind" and then left the room. Then Bill regretted his behavior any time after she left the room and visited Rebecca. How long after she left were they happy together?answer: #
+
+ We want to calculate the number of days that she does 10 hours per day (n) and the resulting amount paid by your hour wage plus half the hourly wage (s).The amount that she makes will be 2*n * hourly wage + n*(hourly wage + 1/2 hourly wage) * number of days that she worked.Note that hours worked is always positive when taken in absolute value but number of days worked can be negative.So two options seem clear here.  Either the sequence n fulfills the inequality (2*n * hr + n*(hr + 1/2 hr) * n > 0) or it does not.Thus, n must either be 0 or 4, and the variable s can be calculated as ((#
+
+ There are 15 hours in a typical now.  Let T be the number of hours that Tina works.  10 + (15 - 8)  6 = 15.  Therefore, T = 5.  Tina makes 9 + 4(5)  5 = $51.50. The answer is $51.5. AseksBSE_Question1.pdfNew To BSE~问题工作组</s>#
+
+ Let Y be the number of hours that Tina worked.  Then 5 x 10 = 50 hours.  Let W = her hourly wage.  Obviously, W + 1/2 = 18.  Thus Y = 50 x (W + 1/2).The number of dollars must also fit the equation because the total revenue is 50 and Tina's revenue is 18. FEW + 1/2 = 50 - Y = Y - W = 21. Thus, the equation must be Y = 21 * (18). So the answer is 21 dollars.</s>#
+
+ Then the minimum wage is 6 * (18 + 1 / 2) = 48.5.So the minimum wage will pay for the 8 hours plus the 4 working hours in a day (= 8 x 18 + 1/8 x 18 = 48)make them = 48.5 + 1/2(48.5 = 65.5 cents an hour. Thus, the minimum wage guarantees only 68.5 cents an hour for overtime unless the employee works that much overtime each day.Since the $50 is paid by your base rate of pay, the minimum wage will also pay for the extra 52 hours of overtime that the employee works. Thus, the employee will make $130 dollars if the overtime is paid at his hourly wage.The answer#
+
+ Let b represent total pay.Then the pay would be.18 times 12.50, or 4.50 times 12.50, or 91.5.Your pay would be the rate hours plus overtime pay for hours worked; however, overtime pay only takes effect if your work reaches 50 or more.Thus, your pay would be 4.50 counting 8 hours for 1 day plus 3 hours for 1 day; thus, the pay would be (4.5 x 52) + (52 x (8 + 3) / 10), or 91.5 times 15 = 364. Therefore, the answer is 364.question: Ray suspected his brother was cheating. His brother did not admit to it. Before Ray looked into the cheating,#
+
+ 8*18 = 144.00.5*3 = 90.00So, her total hourly pay is 90 + (18/2)=144.The answer is 144.Most of these questions have two parts.  The first part is the x#
+

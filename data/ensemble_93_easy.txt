@@ -1,0 +1,39 @@
+ Let x be the cost of 1000 pounds of meat.  Let y be the cost of the chicken.  Let z be the cost of the beef.  Then the equation becomes 800y + 2000z = 2000x.  Adding and the expressing terms like this simplifies the equation to 200xz = 1200y - 800x.  To solve for x it becomes (2x + 2000)(-2x - 2000) = 2z - 6x + 2000.  Note that the net terms cancel and the only term left is the total gross cost of the food as 2000.  This is x = (2000 + 8)(2000 - 8) = 2000 + 8.  To solve for y we have 200xz = (2z - 6x + 2000) = 1200#
+
+ Let x be the total amount in dollars.Then the total cost is x * (8 + 3) = 1630.Adding twice the amount (1000, 3000) to both sides produces 2 * (8 + 3) * (1000 + 3000) = 484500.To convert from pounds to kilograms we divide by 12.Therefore, the cost of 1000 pounds of meat is 484500 / 12 = $3.68 per pound, or $4.89 per kilo.</s>INTRODUCTION
+Streptococcus pneumoniae, a commensal organism of the nasopharyngeal and other human's respiratory tract associated with all age groups, contributes significantly in causing pneumonia and most frequent are bacterial meningitis, pneumonia and#
+
+ Let u be the amount of beef and c the amount of chicken ordered.  Then the total amount ordered was (u + c) x $8 = 128.Then the total cost was 128 x (3 + 3) = 368.We can simplify this by multiplying both sides by 12 equaling 129.
+
+So the answer is $368/129 = $36.7.</s>#
+
+ Let Z be the amount of chicken ordered.  Then Z = 1000 * 3/2 = 500.  Let Y be half of the total amount ordered (recall that the price of chicken is half the price of beef). So Y = 1000 * 1/2 = 500/200 = 25.  Y = Z - X (recall that the price of a chicken is the same as the price of a beef, so we can subtract the price of the beef, so Z = (X - Y) * 3/4.  The sum of Y and 3/2 of 3/2 of X is 3/5 of X.  Thus X = 3/5 of Y = 3/10 = 30.  Y = Z - X = 10 - 0 * 4/10 = 3/8.  The answer is 3/8, since Z is still 1100.question: Keith bought 6 boxes of corn chips, 18 boxes of chocolate pretzels, and 8 boxes of kettle corn from the food store. His total cost was $160.  If he put 3 pieces of#
+
+ Let c be the total cost of the food, and output  be the total amount of beef and chicken.Then,
+Table for total cost of food |  John ordered | pounds of | total cost of  |     beef        |     chicken       |
+  ================================= ================================= ================================= 
+    | 10000        | 40        |19784.59 |     910.00       |     117.09847`````
+
+Since he ordered 1000 pounds of beef, then his cost is 40 * 19784.59 = $78,480.59.The cost of the chicken is also given,  but since it's twice as much, the total cost of the chicken is 1000 * 3 = 3000.But we also multiply 1000 by 60,#
+
+ Let X be the amount of food ordered in pounds.4a + 2c = 1000 - 800 = 200 Therefore, it must be 200 x $3/8 = $10 per pound. Divide X by a and by b, therefore X/a b = 1000/8 a + 2 c = 800 (here 8 units per pound) To solve, we have a = 3 and b = 1. Therefore, b c = 6. So it must be 200 x (3/6) x $7 per pound. Also, that means that X/b c = 1000/6 x $7/3 = 200 x 34$10 = 5410Q. The answer is 5410.question: Harry, his friend Dick and the book fairy arrive at a break at lunch time at#
+
+ Balboa had 800 lbs of beef and 200 lbs of chicken. Therefore, he had 1000 lb. of beef, 2000 + (800 * 3) = 2000 + 800*3 = 3000 Lb. of chicken. The cost was 8 * ((1000/3000) * 8) = 256. The answer was 256.Question Reference CONCLUSION: There are different ways to interpret this question. However, with the example shown above, we focused on how each price we added to our workout#
+
+ Let A represent the food (e.g., beef). Let C represent the chicken (e.g., twice as much).  Let B the price per pound of meat ($8/pound) and let S represent the price of everything.We have BC = (–2 x 1000 + 800 x 3) = 6e C = 8e The solution is. The answer is.question: When you Bernice do a multiplication, you count the number of coincidence bwt the two factors.  In this problem#
+
+ Let C be the amount that John paid.  Since he ordered 2 * 1000 / 8 = 2000 lb of beef and 1000 x 3 / 9 = 1000 lb of chicken, we have C = 8 + 3 * 1000 / 9 = 1710.In addition, let q = 800 lb of beef and r = 200 lb of chicken.  Then C = 1710 x (q + r) = 30000.The amount ordered by John is C * (q + r) = 30000 * (7800 + 200) = 18000 lb.  The cost is C - B = 18000 - 5018 = 1009 lb of ordered food.The cost of the beef is q * 178 = 104 lb of beef costings $8.  The cost of the chicken is r * 176 = 96. Thus, the cost of the meal is C - B = 10000 - 700 = 1468.The cost of the meal would be $14.68.question: Jill gleefully made a $100 pile of#
+
+ 1000 + 3000 = 4000 which is $40.Question It was suppose to be $43.But, from a mile there was why was that?and how could the grass have priced smoke'd up that far, a year earlier?Answer - The horse padded about 8 miles when it hit and price was $5 and changed to $4.Then the price was $5. Then -4 miles = -5 Note: This is just a guess</s>#
+
+ Let C be the amount of chicken received. Since the order is 1000 times 60 (clothes then meat), we can set C to 1000 * 60 = 6000 Then, the quantity of meat ordered = 1000 * C = 60000. Then the quantities ordered must be equal.EUR->BUC (1900)= 45000Then the price per pound of the beef is 800 * 45000 = 3.1 million per pound.The price per pound of the chicken is 3.1 million / 6000 = 0.41 million.The total price is 0.41 million + 3.1 million or 3.41 million.The answer is $3.41 million.question: Two men travel a river in search of soap designed only for bathing#
+
+ Let A be the cost for the 1000 pounds of beef.  Then 8 * A = 8.Then let B be the cost for the half of the chicken.  Then 3 * B = 9.Let C be the total cost for the restaurant's food.  Then 7 * C + B + 9 = 78.Finally, let D be the price per pound for the beef and the chicken.  Then D = 8 * C + 3 * B = 72.Therefore, the total cost is 78 + 72 = 134.  The answer is 134 per pound.</s>#
+
+ The first 1000 pounds of beef costs 8 x 1000/12 = $8. The chicken costs 3x2000/12 = 30.Therefore everything cost 63. Then divided by the 500 pounds of food in his order he got: (1000/200) + (2000/500) = 28. To find the total cost of his order he divided all the costs by two: (80002/500) = 30. The answer to his question is $30.The difference between overpayment and underpayment is called an adjustments amount#
+
+ Let c be cost of the 1000 pounds of beef.Let p be the cost of the 2000 pounds of chicken.  Then total cost would be 1000 * 8 + 1000 * 3 = $36,000.  Let s be the portion cost of meat.  Then eataje was $10 per portion.   The cost of the portion at the restaurant would be A/C  = 36000/(100 + 9) per portion.  The total cost of portions would be 36000/(100 + 9)1000 +1000 = 33967.The sum of eataje and portion would eaas 79000/(100 + 9) = 66307.Then the total cost would be
+AC + p = 33967 + 66307 = 10253.So, the#
+
+ Yes, he ordered 1000 pounds of beef so 1/1000 = 1 pound of weight.. Then he ordered 1000 pounds * $8/pound = $8,000 of food.And for the chicken - he didn't order the exact amount of chicken, but 500*3/pound = 15$.So the total value was $8,000 + 8,000 + 15,000 = $44,000.The answer is $44,000.</s>#
+

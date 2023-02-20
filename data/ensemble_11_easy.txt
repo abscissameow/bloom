@@ -1,0 +1,83 @@
+ Letting M be the number of shovels, it would be 15x7 = 75, and so 115 - 75 = 50. Similarly, 45 - 7 = 38.So it had 53 shovels, which equals the number of driveways.So, he mowed 54 lawns and shoveled 56 driveways.The answer is 56.question: Talal tore a shirt yesterday and the parts cost him $10. Today, he bought a pair of shoes. The parts of#
+
+ First, let S be the number of lawns the overlays he shovels.Then 7 + 12 = 15 = 25 - S.Now let D be the number of driveways the overlays he shovels.Then S + 3 + 6 = 15 = 25 - D.Adding D to S produces 2 * 15 = 30.Then subtracting D from 15 produces 15 - 15*3 = 10. Now adding 3 to both sides produces 15 - 3 = 13.Then multiplying both sides by 12 produces 6 and the equation becomes 6 * 12 + 5 = 75.Now 5 represents the $5 allowance. We can solve for S: 6 * 12 ER S = 30 - 25 = 5, which is clearly true.  So S =#
+
+ Let a be the fee to mow a lawn. And let c be the fee to shovel a driveway.Let e be the fee to get change for a note of $45. Then a + c + e = 15.Let d be the number of rides he pulls. Then d = e * 4 = 15.Let s be the number of house shakes he mows each day. Then s = c / a = 35 / 15 = 2.Suppose he gets change for 8 house shakes. Then c = 8 * a = 45.converting from house shakes to miles each day, s = d / 45 = 1.5 / 2.5 = 1/2.5 miles each.The answer is 1.#
+
+ In the budget equation, the constant $7 is a "tax" that is imposed, and has been imposed, on Tobias's change. Since he mowed the total of 7 lawns today, Tobias's change is $57.The equation is 57 - (5 +7) = $7.Therefore, Tobias's change would be $24 if he mowed 4 lawns and $13 if he mowed 3 lawns.So the solution would be $24x3 + $13x = 95.If we apply the second rule of algebra, since Tobias will always have money in his pocket, he will need to mow 5 or fewer lawns.Therefore, he mowed 3 lawns on his first day of hire.The answer is 25#
+
+ Money that he has leftover as a result of driving, cleaning and other work (including the $5 bonus) is x.So, he has (x + 1) money that he can put toward buying a new pair of shoes.Then there are two choices as to what he can do with that left over money.He can mow a number of lawns along with a number of driveways. In that case, 15 -B = x and 46 - B = x.If he doesn't mow lawns and only shovels driveways (i.e., B = 0), there are two possible options. With each possible option, 46 - 0 = 46 and 15 - 0 = 15.Therefore, if he does m#
+
+ He gives up his money each month. If he saves up enough and buys the shoes, he would have $15.The figure of 15 represents the amount he's saved up. He can mow 3 lawns and shovel 5 driveways.The figure of 3 is the amount of money he owns.The figure of 5. The number that he bought a package of shovels for.The figure of 9 is the funnel the money in.Since the figure of 15 represents the money he owns, subtract 15 from the figure 7 to get 9. The money he bought a shovel package for.The solution is 1 is the number of lawns he mows. Then, 1 + 1 = 2 is the total number of driveways he#
+
+ Let X be the number of driveways.Then, strip off 7 to 5 in front of 2 and multiply X by 2 - 7 to get 10X + 5X + X = 11:X = :2 - 7To mow 4 lawns, add 15 to X and it becomes 14 + X = 15.To mow 1 lawn, subtract 15 from X and it becomes 13 = X - 15.Then, subtract 6 from 10 to get 4.Then, add 6 to 4 to get 8.Then, add X to 8 to get 10X = 80.Therefore, he shoved 8 driveways.The answer is 8.</s>#
+
+ Let h be the number of driveways Weekly he shovels.Then, let x = $5 + 5 + 7 x = 27, y = $15 / 4 x = 9, z = $7 x = 6.So the mowed lawn areas become x(z + y) = 27 + 8 x + 9 (z + y).Transferring 15 = y to the left side and Carnegie thrusting 53 = y - z = y, that gives y = 15 / 3 x.So x = 9, z = 6, and h = 18 lawn areas.So, there were 18 + 9 + 6 = 33 driveways mowed.The answer is 33.question : Frank has a piano and he plays 5 notes of piano a#
+
+ Let x be the number of lawns mowed and let y be the number of driveways shovelled.Let C be the change that he has after buying the shoes.Then C = 15 - x - y.In his shoes, the change he has after buying them is 15.If he mows regular lawns, how many times does that become x?
+Hope you find this helpful.
+
+A:
+
+The?! mathematical formula that you are bothering about is called.
+
+Ackermann's Function
+
+for n=1, aka A(1) = -1
+for n=2, aka A(2) = -2
+for n=3, aka A(3) = -4...
+In fact: 
+
+if n is a power of 2 (#
+
+ Tobias's paying the shoes at 5% and also getting a 5% bonus on every job he completes.So he was going to pay a total of $95*0.05 + 15*0.05 = $18.04.But he proceeded to work 4 jobs instead because he gets a bonus of 5% on his job paid. So that gives him a total of $9.52 for the shoes and driveways.Then, he only paid $15 + $7 (the costs of the shoes and driveways) = $29.53 so he had a total of $29.53 - $18.04 - $9.52 = $5.55.The answer is 20.If you have ever had to answer these type of multiplication problems, you know#
+
+ $0
+
+Thus, we have
+$${} + 28 = 30$$
+Somebody must have transferred $10. That means there was $a! = 5$. So the number of golf balls is $50 - 10 = 40$ ( expressing the event that no golf balls are stolen).
+
+Thus we have a revised range for $40 < n < 90$</s>1. Field of the Invention
+The present invention relates to a high temperature resistant ball screw.
+2. Description of the Related Art
+In Japanese Laid-open patent application 2000-151813, is disclosed a ball screw that is intended to achieve exact#
+
+ Let y be the number of driveways.Then he has 15y - 15y = 4y * 3 = 100ySince he gets 15 and he pays 7 for shovelling, he got a change of 15 * (15 - 7)%100 = 7.2Which is $7.2 for each driveway.The answer is 7.2.question: Fred's perfume costs $18. He spills his perfume, so that it takes $8 to clean it. After buying the#
+
+ let X be the stored change. X is 15 x 5 = 75.Then X + 15 = D - B.B is 15 + 15 = 30. and the sum of all the driveways is X + 30 = 60 driveways. Therefore D = X + 60 = 120 Lawns to be mown. answer is 120 question. (a)  Let x be the price of the pair of shoes. Let a be 5' worth of lawn and b the price of the shovel. The#
+
+ Let C be the number of driveways that he shovels.Then 14 + 5C + 1 = 88.Summing on the left side produces 5C + 8 = 10C + 1.Subtracting 1 from both sides decreases the value of 10, so 10c - 1 = c.Subtracting 1 from both sides reduces the value of 5 so 5c = c.Summing the powers of 10 on the right side decreases the value of 88 so 88c = 16c.Summing 88c and 10c yields 88 + 50c = 1226c.Let A = 1225c / 11.Then 1225c = A kahleds(1225c.h + 11c).Simplify c so ac.Consider 1225 + 11 = 1311.Subtract 1311 from both sides produces c - 1 so c - 1 - 1225 - 11 = 25.Dividing both sides by 11 gives Ac.So c = A mould#
+
+ Let x be the number of driveways he shovels on the first day.Then, x + 4 = x + 7 days...and x + 5 = x + 9 days...and x + 6 = x + 12 days.Thus, the number of driveways he shovels on the first day is x + 5 + 6 + 4 + 7 = x + 7.Then, there are x + 7 days to mow 4 driveways.Therefore, the first day he mowed x + 7 driveways.The answer is x + 7.question: Zealot is going camping. He swears he can guards by himself for one whole full moon. He will sleep alone in a tent in the campground.On#
+
+ Let x be the number of lawns. Then x = 4.Therefore x x / 15 = 7 (15 - 15 x).Then 17/15 = x.Therefore, his change is 15 - 7 = 8 dollars and 7 is the change he makes.However, he did mow 4 x 15 / 15 = 45 lawns.Therefore, his total mowing cost is 45 x 15 = $300.Thus, his final mowing cost is $300 + 8 = $308 Is the answer $308.question: Roberto and Ross sold 31 golf bags to people for $30 each. They also gave 8 unmarked golf bags for $5 each. They sold 20 golf bags for $30 and returned 12 of the unmarked golf bags for#
+
+ Let C be a constant. And let x be the amount of money that Tobias received. The first summand will cancel out so can be zero. The second summand is $100. And the third and fourth summands are $500 and $300. It's easy to see that they all cancel. You have to pay for the shoes regardless if you mow the lawns or not. So C is -x * 75.So, he can charge x * 75 to each person that he mows. Then he reduces his total cost to $155. It looks like 45 + 18 = 53.So, he mows four lawns and goes for four driveways per mowing.The answer: he has to mow four lawns and#
+
+ Let y be the number of driveways he shovels.Then, the number of lawns he mows would be (y + 1) * 7 = 77.Adding the change from his shoes gives him (77 - y*15) - y*17 = 85.Now, subtract these together, giving 85 - 77 - 27 (-2 - y) = 45.The answer is 45.question: Patricia is trying to carve a lion on a hamburger. She bars in#
+
+ let  be the dollar amount of change he had after buying the shoes.Then Charlie's dad gives him $5 a month so  $15 = Sumber: Buku  20 * 5 = 75  * 7 = 157.The answer is 200.question:#
+
+ Let us say Tobias spent $95 each month on shoes, $35 on lawns, and $10 on driveways.We can see that he would have $95 - $35 - $10 = $50 in change.From the starting arrangement, we know that before getting the shoes, he had $15 which is his $5 allowance.So his total cash was $30.So with the shoes he would have $96 - $35 - $10 = 6.15. Therefore, with the shoes he would have $96 - 6.15 = $74.So he would have $94 - $4.5 = $69.5 to do mowing and shoveling.So he would have $95 - $4.5 = $69.5 for mowing and shoveling.There are 100 driveways total.  With the shoes they would be $95 - 6.15 per driveway = $69.5 per driveway. So that is how much he charged.The answer is $69#
+
+ Tobias's allowance for buying shoes is $5 and the total price of the shoes is 95.Then the change is 15 - 95 / 5 = $10.The first lawn Tobias mowed is the mowing fee of 15*0.15 = $2.50.Then he mowed up to 3 lawns and the mowing fee is 15*(3*0.15) = $5.45.Then he mowed 4 lawns and the mowing fee is 15*(4*0.15) = $6.15. This adds up to $7.25 and the total is $15.15.The answer is 4*15 + 5*15 + 6*15 = 135 driveways.question: A guy walks 170 feet and beats the song "We#
+
+ Let RMG be the total amount of money he saved up. Then we have 5 * (95 - 15) = 1095.Let RC be the sum of money he put in his pocket for lunches.Then, we have 5 * (95 cancels $15 and minus $7 becuase he used $7 to save up $10 for shopping), resulting in 1050. (5 x 15) x 7 = 1050RMG + RC = 1095 + UP = 1055.Therefore, Tobias worked 3 lawns and worked 11 driveways for $15. The answer is 11.question: Greg and his friends often play Banzai Bridge. Greg has won every game that he has played so far. If he plays Banzai for another 8#
+
+ Tobias pays two dollars per lawn and one dollar for each driveway. He costs $15 for 4 lawns and $4 for 4 driveways. So, 15*4 + 3'4 = 49.Subbing into the equation, we have 49/2 = 22.Transferring 22 / 2 across the equation, the number of lawns he must mow is (49 + 22X22) / (22 + 1) = 49 - 22 = 37.Thus the cost of each lawn is (37/2) = 15.Therefore, he must mow 37 lawns.The answer is 37.question: Julian is picking up an ice cream from the grocery store to his house. His first ice cream is the double but he pay for a single#
+
+ Let y be the number of driveways he shovel.Let x be the number of lays he mows.Please say x+y using standard operation signs.Let x * y be the total cost of the shoes and other expenses he has to pay for them.So, the total cost would be 95 * 15 * 7 = 3279.The answer to the question is 968 yards.This means, that if he mows 4 lawns, he would have to pay 3279 -#
+
+ Let P be the price of the shoes and C the change he has.Plugging in the numbers gives 95 * 4 = $320.The equation thus simplifies to 320 - 15 = 225.One cannot split the [?(15)$ and 115, therefore 225 must be in the form of [280 + 15] and divider $75, so Müller. Then Müller = 225 ÷ 75 = 3 and is therefore 3 driveways.The answer is 3.question: Part of Raymond's#
+
+ Let x be the number of lawns and let u be the change that Tobias received, then 15 * x + 15 * (1 + 0.05) = 15 + 15 * (0.95) = 120Thus, he paid $120 for himself. Since he had $45 in change when he bought the shoes, it also represents his spending for mowing lawns and drivingways. Let y be the number of driveways he shovels. Then he made 2 * (x + y) = 30 lawns.Therefore, he shovels 2 * 30 = 60 driveways.The answer is 60.question: Thomas found 19 orange balls on the playground and 83 blue balls on the basketball court. He took along his#
+
+ Let x be the number of driveways he shovelled. Then, 4 x 16 = 64 mowing jobs. Adding the 15 for the shoes, it becomes -65 = mowing jobs + 15.Then flip it over so x is the number of shoes, so 4 x x = 64 shoes. Thus he shovelled 64 * 4 = 256 driveways with $7 charge for each driveway.The answer is 100.question: Christopher Helper sells rubber bands to James for $1.#
+
+ He pays $15 for 4 lawns so the net cost to him is 15x4 = 45.But at the beginning of the year he got a $5 savings so any money he saved in the months put into the shoes, is subtracted from the total money.Let m be the money saved in the months.Then the net cost to him will be 15x4 - 5x3 = 54m.And the total cost to him would only be 95m.Thus for each lawn he gives $14.If he mows 4 lawns and shovels 1 driveway, he will save $21.So the cost of buying the shoes will be $94m - 21m = $87.This is also the cost of selling the shoes.#
+
+ Let S be the change. 65 - (S * 15) - (S * 7) = 12.Let the cost of shoes be K. 55 - (K * 95) = 99.Let the price of lawn and driveway be P. P * 4 = K * 95.So his cost is 55 - (99 - 12 * 4) = 36.Thus, the value of K = 4.Therefore, it is 1/5 the price of going to work (shoveling).The answer is 1/5 = 0.16 of the cost of going to work.question: Naima was going to buy a book for her book fund. Since she only has $2, she should choose a book with a low price. Let#
+
+ Let y be the number of lawns he mowed. Let a be the number of driveways he shovelled.So, there are 4 * y * a = 240 lawns he mowed and 7 * a = 42 driveways he shovelled.Let A0 = 15.Then A = 240 - 15 = 195 yields A = 195.Let B be the number of change he had after buying the shoes.Then B = 95 + 5 * a + 7 * A0 = 85.Thus, after buying the shoes, he had B = 95 - 5 * a - 7 * A0 = 80.Adding the mowing and shoveling, he had 95 - 5 * (240 - 195) = 55.Let C = 15/(4B) = 2/(100B) = 4/(76 B) = 1/7B = C.Then y=85/(4*195)=/11/(96B)=4. Since he mowed 4 lawns, the#
+

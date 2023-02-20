@@ -1,0 +1,46 @@
+ Mark's garden is full of 10 Y1, 25 Y2, and 40 G flowers.Each Y has 80% more of those as Y2. Therefore, there are (10 * 80/100) + (25 * 80/100) + (40 * 80/100)= 100 (Y) + 100 (Y2) + 40 (G) = 990 green and 990 yellow.Therefore, there are 990 yellow and 990 purple. The total number of flowers eliminated from Mark's garden is 990 - 990 - 40 + 990 = 1180.The answer is 1180.question: A boy and a girl meet at school. The boy denies that the girl's eyes are blue, further argument is carried out, but in the end both agree that both#
+
+ Let Y and P be the green and purple flower numbers, respectively. Y = 10% * 10 + 50% * 5 + 80% * 4 = 30%. P = 50% * 10 + 25% * 5 = 5%.So, the total number of flowers is Y + P = 30% + 5% = 35%.</s>A mobile communication system may operate at a highest horse speed. The mobile communication system may receive input data from multiple processes and transmit the received data to the destination according to a required protocol. Each of the received data may be organized by multiple frames. The frame may be constructed in a fixed length or variable length form. In order to insure an efficient data delivery to the destination, a minimum amount of transport resources may be reserved for a specific user. The minimum amount of transport resources typically does not represent#
+
+ The numbers of yellow, purple, and green flowers are 13, 30, and 9.Therefore, Mark has 49 yellow flowers and 30 purple flowers. Mark has 89 flowers altogether.question: 23 of 400 people from school are male. There are 80% more boys than girls. How many of them are male?answer: There are 64 of 400 people (20 x 80/100) male. Hence, there are 16 female.
+Texas desert diamond is a type of mineral(diamond). It forms in#
+
+ Let x be the number of yellow flowers in Mark's garden.Then x + x(10 - x)*80/100 = x.(10 - x)*75/100 + (x - x)*25/100 = x.(x + x(10 - x))*80/100 = x.Let y be the number of green flowers in Mark's garden.Then y - x + x(10 - x)*50/100 = y.In the equation above, replace x and y with the percentages they are in order to get x (10 - x)*80/100 = 25.Let z be number of purple flowers in Mark's garden.Then z = x(8 - x)(10 - x)*50/100 = 8.(8 - x)*75/100 + 8*25/100 = 8.Esses systems have 22 = x + 8(1 - x), x, and 22 + 8(1 - x), 1 - x, solutions (103 +#
+
+ So, there are (11 + 10 + 5) / 26 = 27 yellow + 98 purple = 185 yellow + 265 purple + 55 total-in-itself flowers.Let Y be the number of yellow flowers.Let P be the number of purple flowers.Then Y + P = 55 total flowers.P is the number of other flowers.Leave one out and you have (21 + 21 + 5) / 26 = 37 total flowers.But then You have绿化率 = (not planted in garden) / total flowers.So Y + (1-Y) = 37 - 21 = 24.The answer is 24.question: There are 10 red train rides per day at the Hitchhiker's Guide to the Galaxy Transit®. Snail delivers the#
+
+ Let P be the total number of flowers.
+Then 74 = 10*20 thus,
+P = 90%
+(P is the blue flowers thus 2 of them are green so we need to subtract one's from that)_has not yet answered"""
+Handwriting recognition is trying to assign a character to a point in an image by comparing it to a reference position (scribble). The reference is created using the script above.
+The outcome of this script can be varied by the parameter'style'. The result can be an accurate image that is easy to identify. The approach is mainly used in scanned images, comparing reference image to the book.
+def lineCount(scribble):
+    """
+    Given an scribble (a.k.a#
+
+ Let R be the number of red flowers. Then 80 - R - 20 = 9.Dividing both sides by B + A yields:8 + 6 = 18.Thus, there are 8 green + 8 red = 16red and 16 yellow + 20purple = 30 leaves.Multiplying leaves by three gives 2 x 5 = 10 flowers.Therefore, Mark has 10 + 10 x 3 = 30 flowers.The answer is 30.question: Dave and Erin decided to divide their math#
+
+ Let Y be the number of yellow, and P the number of purple and green (4) flowers. The number of flowers is Y – B. B is the number of purple and green flowers, whereas yellow flowers are Y – B. Therefore, the total number of flowers is: (54 – Y - B). We know that 50% of the purple flowers are green. Therefore, green flowers will be Y – (53 – 34). So the number of green (and purple) flowers is: Y – (53 – 34). The total number of flower will be: 12 (ya yellow flowers). The number of purple, green and yellow flowers is: 12 + 12 – 4 = 18.The answer is 18.question: 36 students are in a classroom.#
+
+ Put 0 on the rows where there are no yellow flowers. Now if there are one-fifth as many green and purple flowers as there are yellow ones, it will be at the intersection of the first two rows. Put 2 on the intersection. Now there are 20% more yellow and purple flowers. If there are only one-fifth as many green and purple flowers, put 8 on the first row.  Blue, red, and blue will appear on the third row, then ten more on the fourth row. Green and purple will appear on the fifth row.  After that, purple, green, and blue will appear on the sixth row. Blue, purple, and blue will appear on the seventh row.  After that, blue, blue, and green will#
+
+ The number of yellow flowers is 10 x 80/100 = 800.Let x be the number of green flowers.There would be (133 - x) x 80/100 = 3980.We combine the like terms to get 183 - x = 557.There are x minutes between t 1 and t 2. The rate of change is dx/ t = dn/ (t 2 -t 1). (T- T / - x)dx. (T-t 1) / dtn = 1dx), (T - t / 1) (t 1 - t)dt= -, 5.. We approximate 90  x 55 7.8  x 0.1 = 17.5 answer(= 17.5).question: Hillary is walking on a road with 3#
+
+ Let λl = 80%, and let λp and λg be the percentages of yellow and green flowers respectively.Then there are 14*λl*(1−7λg) + 11*λp = 144 - 16*(1−7λg) = 1152 flowers.Assume that Mark is short. Let μ be the probability that a flower is yellow. Then 6RICMHS If μ*x2 is the number of yellow flowers in the garden, μ*(2*x+6) = μ(14+1.2*10+29*(200-1)*480 + 6) = 480*μ.So the expected number of yellow flowers is 15.5. Therefore, the total number of flowers in the garden is x1 + x2*μ + (1 - μ)pegs:If x*μ is the total number of flowers in the garden, x2*5.55*μ*02 − 4x*μ = (1 - μ)1.5(#
+
+ It can happen that Green are mixed with Yellow and Purple, so let x be the number of green flowers.Then there are x + 1/4 * (x+ 1/4) = 2*(x+ 1/4)Also, there are x * (x + 1/4) + 1/4 * x = 2*x + (2*x + 1/4) + 1/4*x = 2*(2x + 1/4) - 1/4*(2*x + 1/4)So the number of green flowers is x * (2x + 1/4) - 1/4*(2*x + 1/4) = 2*(1+ 1/4 + 1/4 = 1.25 QueueJhax is right: the number of green flowers in Mark's garden is 1.25 x * (2x + 1/4) = 2*(1.25 + 1/5 + 1/5 = 1.78 QueueHarry is right: the number of green flowers is 1.5 ventures both at-elementary-school with not a well employed attempt along with your miracle of mountain besides way such it far to the#
+
+ Let X be the total number of flowers and Y be the amount of green flowers and Z be the total number of yellow and purple flowers.Then 25 * 43/1 - 8 * 45 = Z.Thus, the total number of flowers would be 22(25 + 43 + 1) - 8 * 45 = 550.And since Mark planted 550 flowers, 6 * 550 = 4500.Therefore, he has 4500 - 6 * 2700 = 2700 green (= purple) flowers.The answer is 2700.question:) 
+        for columnNumber in range(7):
+            for rowNumber in range(10):
+        i = i+1.question. (int)(randint * 31) + 1
+
+        s = str(i)
+
+        print(#
+
+ Mark plants 30 yellow and 130 purple flowers.There are 18 yellow flowers, 1 purple flower, and 95 green flowers.The ECOUNT of the number of yellow flowers is x 10-17 = 9.Therefore the number of yellow is 90.The number of purple is (1 -0.80) * 130 (1 - 0.25) = 96.The number of green is 98.The answer is 90, 96, and 98.question:  They had 5 more trees to replant.#
+
+ Green fruit - Yellow fruit - Purple fruit = 19 - 20 - 17 = 7.Since all the fruit has different color, the number of fruit of the same color must be 45.So the number of seeds in the garden must be - 15 - 5 = 20.The answer is 20.question: Kenneth bought 6 pairs of socks for his brother. He paid 4 pairs in cash and 2 pairs at a discount of 30%. He gave the cash to the shopper and added 30% to the#
+

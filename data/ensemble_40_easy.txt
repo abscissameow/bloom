@@ -1,0 +1,30 @@
+ Mr. Benson tired 2 tickets that exceeded $10 so he paid $10 and received a 5% discount.So, he paid 40 - (12 x 10) = 3 discounts.And so the total price paid was 3 discounts * $40 = $60.Therefore, the whole price was $60 incrementally.The answer is $60.question: John has ordered 12 chocolate chocolates and is ready to pay. Upon arriving, each of them is $2.35.  He pays for one#
+
+ Let 25 be the number of tickets he bought that exceeded 10.Then he bought 12 * 10 / (1 + 5%) = 12 * (1 + 5%) / 25 = $12 / (1 + 5%)55 = $5.5 + 5.5 = $7.5.Then he paid $7.5 in all. The answer is $7.5.question: Brown sold 18 oranges and received $2 more every 2 gifts. If he sold all of the orange, what was the#
+
+ Mr. Benson bought 12 tickets so the price would be 12 * 40 = 480.Then he gets discounted(discounted by 5%) so the amount paid for him would be 480 - 240 = 168.Finally, they paid 12 tickets assuming it cost 10 dollars each so the result is 168 * 12 = 1920.The answer is 1920.question: Gina's grandpa has 3 cars total. 5, 7, and 9 of his cars are American, European, and Japanese. How many#
+
+ Pick the largest purchase before receiving any discount.Suppose he bought 16 tickets, which cost $16. Then he paid: $43 = 16 + 16.Subtracting $4 from each of the 16 purchases yields the discounted buy tickets he used when purchasing additional tickets. That is, he used $40 - $4 = 36.That, multiplied by the discount rate of 5%, yields 112/(1+5%).To find the number of tickets still he bought, we can divide $45 by $112. That equals 5. Averaged out of the 12% discount rate, this yields: $4 to the $10 ticket, $6 to the $15 ticket, $11 to the $20 ticket, $22, to the $30 ticket, $35 to#
+
+ Let x be the number of tickets.Then 12 * (0.95)^(x-1) = 0.3035^(x-1).(100/(12 * (0.95)^(x-1)) = 0.5.Thus 0.3035^(x-1) = 0. (0.5 is also known as one over five, or 1/2 -5/6). So Mr. Benson paid x/2 = 6 (0.3035^(x-1))um.Now divide on both sides of the equal sign by x which is 6. The B cum B-sum is 0.3035*6 = 0.09035. The Bquote B-sum is 0.09035^5 is 0.103512. The answer is 0.103512.question: Abdel hit a javelin 60 m in 2 s. The average speed of his rhythm was 50 m. In what interval did Abdel run his best speed?answer: Let x be#
+
+ This can be written as 215/(1+5%) = $0.29 per ticket.Changing both whats on 11-12 to 11- makes $11.3 listed, so $11.3 x 12 = $116.Development brings us back to $40, so $1,440. The answer is $1,440.question: 10 x 6 is another number which in multiples of 3 has a sum of 52, 6 is multiples of 9, if the product is then what is the number?#
+
+ Let x be the number of tickets Mr. Benson got, r be a real number, and K be K12.Then, Mr. Benson got r x K%% K: 100 = 0.012 x K, the remaining pupils did not buy a ticket so r = 0. Answer: Mr. = 0.012 x  12 $ $ 0.012 x 1000 $ = $ Is $ = $ according to Mr. that initially he wanted to buy 12 tickets and now he only#
+
+ Since Mr. Benson paid 12 * (40 - 12 x 0.05) $40 - 12 * (40 - 11.95 x 0.1)$$$37.35answer: $37.35question: An ATM machine gives#
+
+ Mr. Benson bought 12 tickets, so the total number of tickets bought was 12 * 40 = 480.The value of B is 480 / 10 = 50 tickets.The discount was B - (12 * 10) / 10 = 50 - 480 / 10 = 450 (i.e, a 5% discount) per 10 tickets.Mr. Benson paid an amount of 450 for all 12 tickets.The answer is 450.question: Manny won a lottery. He bought the winning ticket#
+
+ Let A be the number of tickets he bought.Then the total cost of all the tickets is 12 * A.Mr. Benson bought 12 tickets so the total cost is 12 * 12 = 144.Let B = 10 * A.Thus, when he bought 12 tickets, he paid 2 * 10 * A = 20.And when he bought 10 tickets, he paid 10 * (10 -A) = 0.And when he bought 10 tickets, he paid 10 * (10 -B) = -20.Therefore, the total cost of the 12 tickets he bought is B = 20 + 0 + -20 = -12.Thus, the total cost for all the 12 tickets was (-12) * A = 144 * A.The answer is 144#
+
+ Let F be the number of tickets that Mr. Benson paid for.  Then 12 * F + 52 = F + 2 titles * 4 / 10 = 12 + 2 * 4 / 10 = 40.The answer is 40.question: Joe sold#
+
+ The equation is 10x = 100.Then, distribute 10 to the x and it reduces to (x=120).Subtract 10 from the second fraction on the same line to transform it to (100-120) = 40.Therefore, Mr. asked $20 for a ticket. So, Mr. Benson paid 12 x 40 = $120 for 12 tickets.The answer is $120.</s>#
+
+ Let A be the number of tickets he paid in total.then the price of his tickets would be 20 * (1 - 0.05) = 1640 so the price of his tickets would be A * (1 - 0.05) = 3760A=3760/40=85.2857...Thus, the answer is 85.2857...</s>#
+
+ Let x be the number of tickets that Mr. Benson bought.Then he paid 12 x 40/100 = 4 * x cents.Because he received a 5% discount for all of those tickets that exceeded 10, the total cost is (4 * x)(1 + 5/100) = 4.7 * xTherefore, he paid 4.7x cents.The answer is 4.7.question: The value of 28 minus the sum of the values of its proper factors is 125. What is#
+
+ Let b be the number of tickets Mr. Benson purchased.Then 12 * (1 - 0.05) = 1934.Margin equals limit, since it is the largest possible value. Limit equals the solution of the above expression.Therefore, the final value of the ticket was 1934 + (9 * 0.05) = 1939.Welcome to our new student portal!Through our portal, you can view email for multiple schools, create an online class schedule, and complete online assignments.For instructions on how to access the portal and create an account, please click this link.Questions? You can submit them online or by calling 504.828.6440.Gerald Washington is the division superintendent for the Livingston Independent School District.He#
+

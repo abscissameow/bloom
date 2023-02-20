@@ -1,0 +1,56 @@
+ Let W be the sum of all the files downloaded after the second round. By symmetry, the sum of all the files downloaded was W +/- 40.Then, let the number of useful files be R, the number of new ones added by removing the 80% irrelevant files.Then W = R - 40 = 65 - 40 = 20. Now let the sum of all the files downloaded in the second round be U. Then U = 40 + 20 = 60. Because the number of total files was 800, the number of files downloaded in the final round was 300 and the number of new ones added by removing the 80 irrelevant files was 20. So U = 300 - 20 = 200.Then, the number of useful files R is 40 - 20 -#
+
+ Let D be the number of valuable files downloaded in the second round. Then 800 - D - 400 = 240. There are 2340 files total so D = 2340/1200 = 0.22 = 21% of the files that he downloaded were relevant to his project. Therefore, he left with 4980 - D = 5640 - 21% = 4320 valuable files.answer: Let m be the number of valuable files downloaded. Then during the first round, Brennan downloaded m * 240 = 3200#
+
+ Let U be the number of valuable files that were left after the first round of file deletion. Then, the value of B after the first round is B - U. The value of B after the second round is (B - U) (1 - p). Let C be the number of useful files after the second round of file deletion. Then C = B - (B - U) (1 - p). The number of files downloaded in the second round is U - (U - B) (1 - p). The number of files deleted in the second round is U + C.Solving this equation yields U = 480/2 = 240 (2 has to be an integer), B = 530/2 = 280, C = 680 - 440 - 90#
+
+ Since 800 - 400 - 3/5 = 300, he had after the first round 300 files on his computer that were originally 800.The answer is 300.Newtons 2nd Law states that mass times acceleration = force. So if all of the files were#
+
+ Let a be the number of valuable files remaining.Then, the number of irrelevant files downloaded in the first round was a/5 = 180.Which leaves 400 - 180 = 180 extra valuable files downloaded to the computer.The value of a exceeds the value of 4/5, so there must be at least three valuable files remaining.Let b be the number of valuable files.Then the number of irrelevant files downloaded in the second round is b/5 = 90.Which leaves 800 - 150 = 450 extra shoes downloaded to the computer.But if there are 3 valuable files and no irrelevant files left, then 90 + 450 = 450 is false.Therefore there must be at least three glossy envelopes left. So the number of valuable files must have exceeded 3#
+
+ Let n be the number of files downloaded in the first round.Then after deleting the 70 files in the first round, he left with 400 - 70 = 230 files.Then after downloading the 70 files and the 400 files in the second round, he dumped 230 + 400 = 660 files.And after deleting 3/5 of these 674 files, he left with 396 files.Adding the 3/5 of the discarded files gives 235 files.The remaining 227 files are certainly valuable. The answer is 227.#
+
+ Don't forget the over 500 that didn't get deleted.In this question, the second round introduces the term irrelevant which is not in the original.Expressions remain the same where the percent of the electronic files deleted is replaced with the number of files that were randomly deleted.After deleting 400, 8. Poisoning attack is also included in this.So, the number of files left after the first round is 800 - (400... R).The denominator of the fraction is 800 - 425 files, so done.There are 425 new files entered.And the numerator, the number of valuable files is still 1500 + 3 times 110 = 3150.The answer is 3150 because only one equal was deleted.question: Internet pirates made a website where people can#
+
+ There were 800 files to download.Then, the following steps will tell you how many files had to be deleted.200/200 = 100.100/50 = 20 because one-fifth (1/5) of the unused files represented 20% (20% out of 100).Reducing a fraction to one fraction equals to adding the remaining files, so 20 + 31 = 41 files were deleted in the second round.The total number of files was 800 - 700 - 140 - 41 = 180. The total number of useful files was 180 - 200 - 3 // 5 = 125.The number of files he used to complete his school project was 55.The answer is 125.Hearing the appropriate command, the sensible pet dog popped his head, winked#
+
+ Let T be the number of files F Brennan had after downloading in the second round. Then 799 + 800 - (400*3/5) = T.So T = 799 + 800 - 400*3/5 = 799 + 800 = 987.This means Brennan downloaded 204 files.Let the number of files when he downloaded only the essential files be C. Then T = C + 204 = 203.The answer is 203.question: A hall monitor removed 10 sheets with 25 pens from a tray, 3#
+
+ He had to download 800 files and delete 700 files.In this case $b = 700.Then, how many files he initially had was $b + 300 = 700 + 300 = 1200.Then, in the second round he had 600 of those files and deleted 100.Thus, the number of valuable files he left with was 17.Then the ratio between the two sets would be $b / 200 / 100 = 7.5.The exact number is 7.5. The answer is 7.5.#
+
+ By last round, Brennan had only downloaded 4.8% of the first round's 800 files.  Multiplying that by the total number of files he downloaded added 208%.  However, 80% of that was downloadable files (800 files * 3/5), leaving 20% that were not helpful but still downloaded.  If you had reread his notes and compared them to the files he had downloaded then you could have removed the irrelevant downloads that were based on the gaps in his notes. Thus, he left with 500% of the relevant downloads, 4.8% of the files that were helpful and 2.2% of the kids who read his notes.Thus, after the second round he still had 3.4% of the total number of files he downloaded yet downloaded only#
+
+ Brennan clear 200 copies  download later rounds capacity completely irrelevant probability keep in pair became length scalable way depleted download 8 copies 1 ગણ 18 bp 1 ગણ 6 bp 1 ગણ 9 bp increase linearly probability get rid of definitely will be usable 800 copies resulting integer number 200 files were downloaded and examined thus 200 - 200 = get rid of anything not usable thus ultimately correct answer is 250 files.The solution is given as 250.</s>#
+
+ Let B represent the number of valuable files he left on the net after deleting irrelevant files.Then B = 800 - 700 - 400 = 200.Combining the constants produces 400*3/5 = 120.Adding 120 to both sides reduces the problem to finding 200/3/5 = 30 more valuable files.Thus, the number of reliable files he downloaded in the second round was 30.The answer is 30.</s>#
+
+ Let X be the number of valuable files. The first round yielded 400 files that he deleted to get to a total of 800 files. And then let Y be the number of files in the second round. x + y = 800.Grouping the terms gives 5.5 + 400 + 400 = 800 - 3 * 900/980 = 746 irrelevant files.Letting x = 6.3 * 746 the number of valuable files would be 27.The answer is 27.question: A#
+
+ Let B be the number of trusted files downloaded after 400 files were downloaded in the first round.Then let 0.7</s>Q:
+
+¿Cómo hago uso de ifset?
+
+wsdl  [String]
+directory  [String]
+username  [String]
+password  [String]
+if (is + false) then
+RESULTS = SUCCESS
+else:
+RESULTS = FATAL
+if the examine is set, there must be some result
+end if
+
+Creo que debería funcionar, pero no me funciona. En ese punto me entra a true, pero a la siguiente línea me dispara: 
+else RESULTS = FATAL àciesate fatal
++       = false
++       #>>false
++       DEF
++       debug msg(FATAL)
++
+
+KhiTiuxes                        15  1   1   15
+#
+
+    rpos.unshift "S#
+

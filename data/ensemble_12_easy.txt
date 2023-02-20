@@ -1,0 +1,37 @@
+ Let S be the total number of trees, and let E be the number of mango trees and C the number of coconut trees.Then S = 60 + 5 = 65.2 = E + C.S = E + C When this expression is divided by 2, we get S = 40.E = 35C = 15.And this sum is S = 40 + 15 = 55.Then, we throw away 5, so S = 35.Then, we throw away 5, so S = 35.After we throw away 5, we get S = 35.Answer: timber, 35. Question: tuber, 3Q multigen. Question: little pub, 5Q, edicts.
+Apr 18, 2017 &nbsp;
+H#
+
+ Let x be the number of mango trees that Randy has.Then, there are x + 1/2x = 80 trees.Let B be the number of coconut trees that Randy has.Then, there are 80 - B = 70 trees.Summing up constants gives 40 = B +  (80 - B )So, the number of all the mango trees at Randy's farm would be x + 1 / 2 x = 80 + 1 / 2 x + 1 / 2 x = 70 + 3^2 x if you use the absolute value operator. So, x is 30 trees, B is 12 trees, and x + B + 1 / 2z = 70 + 12 + 30/12 or 10x plus 20x plus 20 = 70. To solve eventually, you could run 3^2 through the larger equation to obtain1 / 2 x = 18. Then solve by substitution. The answer is 10x.question: Dave gave 700 cotton balls to his friend Joey to decorate a baseball stadium. Joey#
+
+ Let x be the number of trees that Randy has.Then, 60 - x - 5 = 35.Combining constants produces 25 - x = 35.To solve, let x be 25.So 35/15 = 2.The answer is 2.#
+
+ Let x be the number of mango trees.Then Let y = x - 3.So, Let A = x - 3 + 5 = 85.And B = x - 6 + 5 = 85.Adding A to B produces 64 + 85 = 126.Subtract 65 from B, so the value of A becomes 65 - B = 12.Therefore the number of trees that Randy has in all is 95 - 12 = 83.Question is 83.Required Level = Grade 5.Math Subdomains = Grades 1-5.Lesson # 35.Factoring In PracticeCalculators and algebra books help you find out if a particular expression is an integer or a composite number. For example, 47 * 67 =360.Notice that the biggest factor#
+
+ Let R be the number of mango trees. Then 60/2 = 30 trees.Subtracting 50% from R yields 30 - 5 = 25 (trees).Add the chopped trees to both sides of the equation to arrive at 30 - (5 + 25/30) = 3.Then Transfer 5 to the left side and 2 to the right side.This yields 3 - 4 = 2.The value of x is 2.Therefore, there are 2 trees less than half as many mangoes and 2 coconut trees as mango trees.The answer is 2 trees.Question 1discount - Not Goal: - How many shops equal 2: two
+corders of fruit of a yellow color, four card-exies and three copies of a certain book,#
+
+ If 5 is subtracted from 60 it becomes 45.Subtracting 2 from 45 generates 28.Then subtracting 3 from 28 results in 23. Therefore, Randy has 90.The answer is 90.question: Dave Brooklyn will be driving your car#
+
+ Let C be the number of coconut trees.59/2 = C/4Let ro be the number of mango trees.60/2 = ro/4Let n be the total number of trees. C + ro + n = n + C + ro.Therefore, northern n = (C + ro)/4 and southern n = (C - ro)/4. Since both of these are 2, the number of all trees is 2 * (C + ro)/4 = 2 * (68 + 9)/4 = 52.The answer is 52.question: Gary bought 27 cartons of hamburger buns to sell. Of these 27 cartons, he sold 20, and he sold 10 of them in 5 weeks. On his 7th week,#
+
+ Let N M G or C be the total number of mangoes, mango trees and coconuts respectively.Then 6 G + 5 C + 2 N = 60.Which is equivalent to 1 + M + 1 G + 1 C = 60.Thus, the number of mangoes, mango trees and coconuts on Randy's farm would be G1 + M + C2 = 60.The answer is 60.question: Walker had 300 apples to feed his 200 chickens. He had no apples left to#
+
+ Let x be the number of mangoes. Let y the number of coconuts. Then x + y = 60.Temos 5 less than half the number of mango trees to coconut trees, so the expression becomes 60 - (35) = 25.Subtracting 5 from both sides produces 25 + 5 = 30.If you then multiply by 2.5 gives 75, which is half of 80.Therefore, there are 25 + 2.5 = 35 mango trees and 75 coconut trees.The answer is 25 + 35 = 55A student called his teacher and informed her he had been thrown out of his row home a week prior. His father had kicked him out due to his substantial debt statements.Below are other income statements from the#
+
+ Let O be the number of mango trees.Then 60 - O - 59 = 5.Since we already know that B = 5, we can use the above equation to get 60 - O - (5*5) = 0.In other words, since we already know that O = 5, the equation simplifies to 0 = 5 - 5/5 which simplifies to 0 = 5. Therefore, O = 50.The answer is 50. :)Thanks for trying!</s>#
+
+ Let x be the number of mango trees and y be the number of coconut trees.Then 1 + 5x = 60.This can also be written as 10x + 20 = 60.Adding both sides gives (20 - 5) x = 60.Thus x = 5 and y = 55.The answer is x = 5 and y = 55.question: 5 warmup sessions of warm-ups and 21 cool down minutes followed by 3 recovery sessions of recovery and 7 recovery minutes. How many#
+
+ Let v be the number of mango trees.Also, let C be the number of coconut trees.Then the number of fruit trees (mango or coconut) is 59 - 5 - 5 = 44.So the expression becomes 59-44 = 11.Then v+C-11=A.Since A equals to [59 - 5 -5], and 44 = 11 + 5, then A = 44.Then v = 59 - 11 = 48.Therefore, the number of fruit trees that Randy owns is v = 48.The answer is 48.question: An observer sees a person push 15 rice bags in 3 minutes. What is the rate of work done by the person once he has pushed in 10 bags?Answer: Suppose that the person starts#
+
+ Let N be the number of mango trees. Then 60 - 5 - 26 = 59 mango trees.Let M be the number of coconut trees. Then 59 - 5 = 54.The total number of trees is consequently N + M = 144. The answer is 54.question: A poor girl in Pennsylvania worked at a factory for 9 months.  She made 264 dollars. Katie from Houston made 997 dollars in 4 months. What is larger, Katie or the poor girl? answer :2 x#
+
+ Let X be the number of mango trees and Y be the number of coconut trees.Then 60 - X - Y = 2.Then Y = 60 - X = 40.Then X = Y - 5 = 45.Therefore, the number of trees is X = Y - 5.So the number of mango trees is 45 and the number of coconut trees is 55.The answer is 45.A beautiful symmetry exists in people of the same weight. For instance, people of weight 100 are#
+
+ There are (60 - 5) mango trees.There are (60 - 5) mango trees - 5 = 60 - 5 = 55 mango trees in all.The answer is 55.</s>#
+
+ Let x be the total number of trees in all. Then 60 + 5 x = 120.Now, add 50 to both sides. This produces 70 = (60 + 5 x) + 50.Substraction is 59 = 70 - 50= 20.Therefore, x = 60 - 20 = 40.Now, let y be the number of mango trees. Then 60 + 5 x = 120 - 5 x = 100. Thus y = 100 - 5 = 85.Subtracting 80 from both sides produces 125 - 5 = 220.Subtracting 140 from both sides produces 160 - 5 = 145.70/ 140 = 4, which is the fraction of mango trees that is less than half as many as coconut trees.The answer is#
+
+ let N be the number of mango trees. Then N + 5 = 60 - 5 = 55Coconut trees = (60 - 5) - (5 - 5) = 2 + 5 + 5 - 5 = 15. Thus, the number of trees is 55.The answer is 55.question: Shug had 800 bananas, 580 pineapple, 600 guavas, and 500 mangos. She had 600 bananas, 520 pineapple, 500 guavas, and 520 mangos when Diana#
+

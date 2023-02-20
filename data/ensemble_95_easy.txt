@@ -1,0 +1,31 @@
+ Let X be the number of nickels.So, Make X + 0.3X = 20Evaluate the above to get 12.3-5.3 = 8.1The solution is 8.1.Hence, the value of Alice's money would be 8.1.So the answer is 8.1.question: Jim and Dean are trading for noise-canceling earphones and Dean has several pairs. Jim has three pairs, two mini and one uni-ear. Jim is satisfied#
+
+ Let x be the number of Kingston nickels.Now, there's (x+ 0.20) Dunn loading plates.Adding the two plates produces (x+ 0.20) + (x+ 0.7880) = 80.Adding the monetary value of the two plates provides an immediate answer of (x+ 0.7880) = (x+ 0.20) + (19.72) The 20 quarters still remain. If you add the number x multiplied by 79.53 in front of them,#
+
+ Let q be the value of Alice's 20 quarters.Then, (20*1)*3q + 99 = 40.Adding the coins and the inks produces (20*1)*3q + 80 = 80.Combine the like terms on the far left to get 30q + 20 = 80.Let Q be the value of the collectible coins.Then Q = 30 + 80 = 110.The answer is 110.question: Frank's Mother bought some cards in the shop, but another customer got#
+
+ Let Q be quarter, I be iron nickel, C be coin, V be value, N be number of quarters,and E be number of coins.Then, Q * I * C* V = 40 * 25 * 20 * 1000 = 2020:That value still doesn't look right so we divide it by 1000.Thus, V = 20 or equivalently Q = 40 * 25 * 1 = 40 coins, and V * N = 80.Thus, she has 80 * 20 = 1600 coins. The answer is 1600.question: Ali used 3/8 inch and 1/4 inch drill bit to make two equally long holes in 12 sheets of drywall. If aluminum sheets are used, she would need 18 3/4 inch drill bit. How many sheets of dry#
+
+ Let n be the quantity of nickels Alice had, and Z be the total value of her money after she exchanged the silver coins for nickels. Then n*20/(2*3) = Z.Multiplying the right side n*20/(2*3) by i (that is 2*i+3) gives iiZ.And then dividing both sides by 20 gives 1.2 * i + 3)/1.2.1i)+ 3)/20 = (3*i - 3)/(4 * i).Therefore, the total value of her money is i.2 * (3 - 3)/(4 * i).The value of n after she exchanged the silver coins for nickels is i.2 * (3 - 3)/(4)22n =- (3 - 3)/4.And the value of her money is i.2 * (3 - 3)/(4)22 - i = 7.The answer#
+
+ Let A be the number of US$ coins that Alice has both Stanley and thin-snub Doug. So, there are 20 * (1st digit in price) = 20 * 0 = 20 different thin-snub Doug coins. After the exchange, Alice had (20 * 2nd digit in price) = 20 * 1 = 20 different thin-snub Doug coins and 5 $5 coins.The total value was (1 + 5 + 5 + 5) * 4 = 100.The answer is 100. (Note: A = 10 nickels)question: Warren got $5 signal tickets. His tickets are placed in order on the same row "Ticket 1, Ticket 2, Ticket 3… Ticket 20" and on the next row "For Sale, For Sale,#
+
+ Let x represent the total value of her money. Bob has one more $4 worth of cards than Lily has. Lily has 7 $5-value cards and 6 $5 worth of cards in her hand. Also Bob has a $4 card and 1 $5-value card in his hand. Then x is: x = 56 + 7(2 + 6) = 34x = 167 - 26x = 133. The answer is 133.question: There are 7 and 6 half-dollars and 5 and 4 quarters.#
+
+ Let x be the number of nickels.Let z be the number of coins worth $3.Let U be the total number of coins minus the number of coins valued at $3.Then x = (U - B) + 2B or x = (U - 26) + 32. Since 20 quarters is the same thing as 20 coins, the number of quarters = the number of coins. x = 20 = 25 + 3 or x = 25 + 13 = 34.If she had 36 cents worth of coins, then the value would be 52 - 6 = 44.She would have 14 coins worth $3 each. Thus z = 14 + 3 = 17.Then U = 26 - 17 = 9 which is correct by the exchange result.Therefore,#
+
+ Let x be the value of each nickel and let q be the value of each quarter. Then the total money after the exchange is (2x + 2/3) * q = 80.Thus, the value of her money is 8x + 2/3 = 109.The answer is 109.question: Two people 135 miles apart exchange 70 coins. One exchanges quarters for dimes. Each person retains 20 coins and gets 5 coins for her change.  How many coins did each person get?answer: Let x be#
+
+ The value of her money is the same no matter what constellation in the constel-L-E-T-I-U-M each of the money expression includes. For example, let x be the value of the 20 ne-si-Ls because it's multiplied by 2 to reduce it to a fraction (i.e., it's doubled). x is the same no matter which constellation we use. Then
+So, the value of her money is x=2*(20*20)/3=80 Because the value of her money is the same no matter which value it were on the left side, she would put the money into the right side regardless if it were in the first or last constellation.question: Keith had 32 coins and the clerk gave him#
+
+ Let x be the number of quarters.Let d be the number of dollars.Then Alice's money is (20 x 226.1) = 26.1 dollars.Therefore, the money increased by 6.1 dollars.The answer is 6.#
+
+ Let x be the number of quarters. (Note 19.5 will work as well.)So, We need to subtract 20 from 79 which becomes 79 - 20 = 59.Then, 29 x 1/3 = 11.5. Adding 29 x 1/3 = 11.5. Then 3 x 11 / 20 = 7.5. Thus, Alice’s total value is 7.5x + 11.5.This simplifies to 11x - 19.5 = 4.5x. Therefore, her coins have a total value of 4.5.The answer is 4.5.</s>#
+
+ Let A and N be the last $20 and the last nickel.Then, Alice had (20 + N) $5. The price of the nickel was 1/5 of a dollar.So the total money Alice had was (2 * (20 + N) * 1/20) = 280. Therefore, her money value was 280.However, the initial $20 HERE was in change, thus the total was 542 (8 * 20) = 542.The answer is 542.question: The Klondike#
+
+ Alice's money had an initial value of 100%. Therefore, her money values should be multiplied by 200 or (200 %).Suppose the number of iron nickels is VII. Answer(s) for Questions Q1. If the last item is met,#
+
+ She had 29 $25, two $2, two $16, three $12 quarters. The total value is 29 + 2 = 31. 2 coins that were out of circulation are now worth 20 each. She brings 1 $16, 2 $12, 1 $25. Again, as in the previous example, their value is 16 + 12 + 25 = 53.So, now if she exchanges them for clean coins, she obtains 17 + 12 + 25 = 45.Thus, now all of her coins are clean coins. Vivian sold six 15-inch blue rubber bands for $12. She sold one 15-inch green rubber band for $14. How much did she buy two 15 inch rubber bands for?Answer: Since there are 15#
+

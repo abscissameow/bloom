@@ -1,0 +1,35 @@
+ Let C be the combined number of uncollected cups of water, flour, and salt.Then 9 + 16 + 32 = 93 cups.Substituting the appropriate values for uncollected and collected gives 52 + 57 + 63 = 71 cups.Then eliminate the redundant cups of water, since we already have the combined number of cups of flour and teaspoons of salt, and the resulting equation is 72 = C + 2 * 16 * 10, after recombining like terms.We thus obtain 90 = C * 2 + 2 * 16 * 10 and eliminate the equal sign, producing 81 = C * 2 *16 + 2 *10.After recombining like terms, this becomes 36 = 7 + C + 2 * 16 *#
+
+ The total number of cups would be the amount of ingredients times the number of cups in each ingredient. So 10 * 16 is 256.The total number of cups of water plus cups of flour and cups of teaspoons is 256 * (1/2) = 128.The answer is 128.question: In her resource room, four black papers were returned and 10 yellow papers were immediately cleaned up. In her gift/carnival collection, 7 white papers were placed in an organized basket, 4 white#
+
+ Let x be the number of cups of water.Then the number of cups of flour would be 2x.And let y be the number of teaspoons of salt.Then 1/2 times y is 1/2 * y = y.Therefore, the combined total number of cups of water, flour, and salt that Kimber needs to make the pizza is 2x + y = 24.The answer is 24.question: With only 16 dimes at a circus, Willie successfully bought 12 tickets for the#
+
+ Let B be the water needed.Then, 16 * (10 + B) = 220 cups of water.Let R be the flour needed and let Z be the number of teaspoons of salt needed.Then, 5 * (8 + 8 + B) = 67.5 cups of flour.Let S be the number of cups of salt needed.Then, S/2 * (5 + B) = 11.5.Therefore, the number of cups of water, flour, and salt needed to make the pizza is (220 + 67.5 + 11.5) / 3 = 87.5 cups of each of water, flour, and salt.The answer is 87.5.question: Linda left half of her plant#
+
+ If you consider the waterspoons, flourh, and saltel as the quantities of each ingredientin a cup, for each ingredientyou must multiply the waterquantity by the flourquantity to getFormulas be 1 watercup (1 waterspoon) = 1 flourcup (1 flourspoon) = 1 salt.teaspoon.Therefore, no material(other than waterand flour)需求量为51/3 * 16 * 28 * 1/2 = 135.The answer is 135.question#
+
+ Let X be the total number of cups of water needed. Then let Y be the number of cups of flour needed. Then let Z be the number of teaspoons of salt needed. Then X + Y + Z =10.1946/63 = 0.815X + Y + Z = 10. illustration: 10.3/98 + 1.293/936 + 0.501/1946 = 10. answer is 10.question: Eddie runs on a mile track with a constant speed#
+
+ Let A be one cup of both water and flour.B is one teaspoon of salt.Then A + B = 10, 16, and 1/2.The formula for the sum of R squared is (A + B)2 = A + 12B + 8ABSo 2*10 + 16 + 8* = 50.(10+2)*4 = 20.And the answer is 20.</s>#
+
+ The expression (16 + 10)/2 has a factor of 2, so it becomes 10 + 16 = 26.Plugging in the exact numbers produces 10 + 26 = 36.Combining like terms is 10 + 2 = 12.61 = 26.So, it becomes 26 + 35 = 51.Plugging it into the original equation produces the answer, 12.61 cups total.The answer is 51.exercise: After cooking, Alex adds 1/4 cup of sugar to the number of cups#
+
+ Let a, b, and c be the numbers of cups of water, cups of flour, and cups of salt respectively.Then (10a + 16b) + 5a + 1/2c = 0.Solving gives a + c + b = 8.Subtracting 5a from both sides gives 4ab = 81.Subtracting twice gives 4a = b * (8 * (8c) - (16c)).Thus the equations give 16b = 128a - (76 * (8c - (16c)).Solving gives 840 = (8 * (8c - (16c)). substituting the values of a, c, and b gives b = 12 and b = (2 * (8 * (8c)) - (4 * (16c)).Substituting back into the equations yields 8a = (16c - (8c)) * 2, and 16a = (8c + (16c)). Then 2c = (4a - b)#
+
+ Water = (10 cups) x (.5 cups per teaspoon) = (5 1/2.75 cups) for 1 teaspoon of salt. flour = (16 cups) x (.5 cups per teaspoon) = 7 3/4 cups for 1 teaspoon of salt. And Teaspoons of salt = 1/2 of (16 cups) x (.5 cups per teaspoon) = 6 3/4 cups. So the total cups of flour is 6 3/4 + 7 3/4 + 5 1/2.75 = 16 cups. And finally, the total numero of cups of water is: 160/ (.5 cups). The answer is 16.question: They spent 1000.47 dollars at the store. For each 10% increase in the sales between morning#
+
+ Let T be the number of cups of water, F the number of cups of flour, and S the number of teaspoons of salt.Then, it would be 10X + 16V + 1/2r = 10X + (16V) + 1/2(X+V).Using addition to expand radians based on the angle that each letter makes and then adding them all up gives 10 X + (4r) + (8r) + (16r) = 10X + (16r).The angle that each letter makes is 36 * r = 24 degrees.The total angles made by the letters are 54 degrees. Then the number of cups of water plus salt is (16 * 24) + (8 * 24) = 324.The number of cups of flour is (16 * 24) - (8 * 24) = 336.Then the answer is 324 + 336 = 602 cups.question: Say that Samantha likes the number 78 and less likes the number 99.#
+
+ Use mathematical induction. If we base it off the first three cases: 
+1-10 = 1; 16-10/10 = 16; 10-8/8 = 1; 
+Thus, if we base it off the first three cases, the common final number, that is the total final cups, is (1 + 16)/10 = 16.The answer is 16.question: A full stapler costs the retailer $1.50 per stapler plus a 23-cent contiguous area charge.  If a cigar retailer buys#
+
+ Let w be the number of cups of water.Then (10 + w) - 16 = w So w = 6.That is, Kimber should add w cups of water to her mix before baking the pizza.Therefore, w = 6 and so the number of cups of water is 106. Then the total amount of flour plus the amount needed for salt adds up to 210 - 6 = 190.What extra flour did Kimber need?answer: Let M be the extra flour.Then#
+
+ Kimber needs 80 (cups of water + cups of flour + teaspoons of salt).Code for the total number of cups that work is AC(water, flour, salt)=96Code for a cup of water is and for a cup of flour is and for a single teaspoon of salt is.The CalculationTable: 1 cup of flour =.45 kgWhy no units star in the table?nr of cups of milk towercr of sodumteaspoons of nenek of flour There are 14 units in the table.Pick one and add it upreference:  Katherine’s Play book. Level 10 page 188</s>LIST OF FIGURES
+Listed in Table 5 
+INTRODUCTION
+The La Jolla-Ammonia Project (LAAP) is a proposed long-term geologic enclosure at the Amoco Oil Company La Jolla Operations in San Diego, California#
+
+ Let C be the number of cups of flour.So then 63 + 16 + 32 = 118.Subtracting the number of cups of flour (64) from this would give us 103.Dividing 130 by 2 would lead us to 32.Level 8 questiosquestion: The gained amount of data is 8GB. The used part is 58GB. The file size is 42GB. Calculate the original amount of data.answer: Subtract the used part from the file size to get the total amount=30GB-60=1980GB.Now 40=1980GB/2280GB would give you sum=0.85.Therefore, the answer would be 2280GB-(0.85 x 10^9) Likewise, subtracting the#
+

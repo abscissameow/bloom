@@ -1,0 +1,43 @@
+ If he decides to earn 20 per day and works the extra 2 hours, his total pay for the day is 60 + 20 = 80.Then the rate per hour is (20 x 8)/2 hours =  20/8 = 3.3 ($40 per hour)The answer is 3.3.</s>#
+
+ We can ignore the extra effort, since it only affects the workday, but doesn't affect his pay. Therefore, the pay will be 80 * (8 + 2) = 120.The answer is 120.question:  Leslie is visiting her friend#
+
+ Let x be the length of time he works, y be the amount of money he makes per hour before the bonus and B be the amount of money he earns from the bonus.  Then consider the equation simply as x = y + 1: (y + 1)(6x -2y + 8) = 2 decreased by (y + 1)x(y + 1) = y*y(2 + 8). Integrating this gives x = y + 2 + y (2 + 8).factor y from the left side to first factor x. which will remove the typo error.fac 0 to eliminate 8.multiply by 2 then remainder para add 3 to both sides, (1 - 8)y = 2 + y(2 + 8) remainder factor 8. factor 1 and remove constants. x = y + 2(2 -. Turning the whole equation into a sum, gives (2 - 7)y + 2(2 + 7) = 2 + y(2 +#
+
+ Let's say that day extra work pays him an extra $120 per day.  So his base salary would be $315 per day.  Then he gets a bonus of $123 daily.  That means his total pay per day would be $315 (base) + $123 (bonus).  So he would get $315*8 + $123*9 = $2,291 per eight hours.  The answer is 2.2.question:  Bob figured that a box containing 100 eggs would cost him $9#
+
+ The answer on the sheet is $78. Specifically, it states that $78 - 20 = 72.  That means John's actual hourly rate is 72/$8 = $9, which is correct.  As stated in the instructions, I'll use the#
+
+ They are asked to convert the bonus to be two hour pay.  This becomes 80 divided by the fee of $20 divided by two hours (8 hours/22.5  hours).As a result they obtain $80 / 20 / 2 = $35. The answer is $35 per hour.question: Fred and Charlie ran 8 x 3 = 24 miles in three days.  Fred ran twice as fast as Charlie.  How many miles fell Charlie?answer: Let A be the number of miles that Fred ran#
+
+ The extra workday starts at the start of the current day.  But the option to earn the bonus begins on the first day that he works after he starts to work for the pay dollar.Asking where it ends means asking where the line between work and options is.  Since he's not working for the pay dollar on the first day, he obviously opts to work at full speed and earn the bonus.  So the bonus doesn't end until the 8 hours are finished.  Thus, the answer is 80 * 0.9/0.8 = 83.75 (make 8 extra hours and he earns an extra 20 so a $28.75).The answer is 83.75.question: George is dining alone at a restaurant with Noodles. No#
+
+ Let C be the amount that John earns when he makes a $20 bonus in a 2-hour extra workday.  Then 8C-20 is equal to 8C + 2 = 24C + 2 = $30.  Then C = $30.The answer is 30.question: Hillary and Fred are on opposite floors of the same building.  This floor has a stairwell.  If they walk up and down the stairs once daily to go back and forth, they will meet once every 25 days.  The distance#
+
+ Let h be the number of hours worked.  Then 80 - 8 - 20 = 12.Divide each side into 12, get 1 + 0 + 0 + 0 + 1 + 0 + 0 = 5.  Then multiply the requested price by 5 and distribute the like terms over the desired result, to get 130.Add 4 to obtain 134.Subtract 40, become 83.  The added hours are the result of 8 * 2 = 16.  There are 40 hours paid for 8 hours from Monday to Friday.  There were 12 hours added by training so he made 83 + 16 = 123 per hour.  The answer is 123.question: Sally makes her living as a make-up artist.  One Saturday she attends a showcase of top cosmeticians. #
+
+ Let x be the per hour rate of pay.  Then 8 x $80 = $400 per day.Thus, John would make 8 x $400 = $320 per day if he chose not to earn the bonus.   So he would make 80% of the starts salary plus 20% of the bonus.  The answer is 80% + 20% = 85% per hour.The answer is 85% per hour.question: Sabin and Eva bought $32 figurines for their doll house.  Sabin gave Eva 1 more dollar#
+
+ Let x be the amount of work that the bonus is equal to.  If the number of hours is assumed to be the same, then x is the number of apples to eat before the bonus occurs.Use the value 50, which is the amount of work if the bonus is not earned to account for the extra time the extra effort would take.  Then x is the number of apples to eat to get the extra $40 to account for the bonus, adding in the same number of apples that are eaten to get the bonus.
+
+- Asked Question -
+The exponent is $^{x}$, so using the usual definition, then the answer has to be 0.
+The in-built constraint is to leave the dot(.) and exponent as the only#
+
+ Let's define q to be the amount of extra work that he does.  So for different determines of q, we can get a table like this:qx=80 + q - 20 =qx=80^2  If q=1 then x=5 if q=1 then x=19, etc. Let Q be the total amount of bonuses that he will earn.  Then Q will be q*(5 + 19, etc.).  Then Q^2 = x*x = 80*80 = 8,340.The answer is 8,340. #extraBonus.weekly $200 $400 $800 $1600 $4000 #hours $600 $3,200 $12,600 $48,800 $192,000 #endResult Q = 8,340 #
+
+ If John decides to earn the bonus of an extra $20 a day, Paul has an hour more to work and John has 7 hours to work out all potential solutions on the given problem.  Their new solutions are  6x + 3y - 12z, 2x + 6y - 10z, 4x + 8y - 12z.  We get 6x + 3y - 12z = 7x + 3y when we eliminate the common variables on the both sides.Also, let's assume that there is no 1st Optional problem, suppose 3x - 6y - 6z = 0.  The solutions are x = 2y = 6z = 0, 2x = 6y = 6z = 0.  Now we've dealt with all the 1st Optional problem.#
+
+ Let x be the extra time John worked that he earned no bonus.So he had (8 + x) hours of work.Then, the money earned was 80 + 80 x = 960.Distribute 960 to x - 1. x - 1 = 8. Thus, he spent 36 dollars on time and cash.  Then, add 96 to the not worked on time and cash to get 48.Solve for x.  x = 96-36 or x = 36. So he added 36 minutes of time to his workday.Let x be the extra minutes of work.Then the money earned would be 960 - 96 = 960.Distribute 960 to x - 1. x - 1 = 8. Then he spent 36 dollars on time and cash#
+
+ Determining interest.To determine how much John makes per hour, we have to determine what the value of PI:KEY is.  Then we can divide that value by the number of hours he worked.The problem is equivalent to side A - B = C.  This equation has general solution of B + C = A.  This means that we have to multiply both sides of this equation by either -2 or 2.  So we have B - C = A-2 or B - C = A+2.  Taking B - C = A-2 produces the following equation PI:KEY - PI:KEY = 0.Solving this for k produces the following quadratic equation k * PI:KEY - PI:KEY - PI:KEY = PI:KEY.Because the#
+
+ Let x be the number of hours that John works.  Then 30 -x = 6.  Let y be the extra 2 hours that he breaks in.  Then 20 + y = 28.  Adding the constants gives us 4 + 6 = 8.  Therefore, John makes $8 per hour, no matter whether he makes a bonus.  The answer is 8.For each word in the list, write one, zero or eight in a proper decimals bracket. For example, 58.56 can be written {{58}}#
+
+ Let S be the staffing level of the bottom line project.  Let E be the percentage increase in this department.  Let a be the performance bonus per hour.  Then Jeff works a team of S + E + a maximal team size that outputs the same amount of output.CreationRationizesTwoOutputs intoTreatment RationizesOneOutput.a = $20, S = 6,andE = 5.
+TheAdditionalEffortLImitsSecondWorkdayto7hours.  Then his new labor costs per hour - labor costs of the project - in the performance bonus option are 11 - 6 - 5 - 7 = 5.The new labor costs per hour with the single workday is 17 - 6 - 5 - 2 = 5.His#
+
+ Let D be the number of days when John earned the additional money for the extra effort.Then 70 - 0.2 * 8 = 68.00 be the number of hours when John worked.So, there were 2 hours that John did not work from Monday through Friday.Therefore, 18 = 2 * 68 = 192 hours.And 18 x $80 = $2400.Therefore, John earned $2400 a day.  The answer is $2400.Flak Moltاصة الربيع معMùa الخريف دار#
+
+ The extra effort by John on the long workday cost him half the bonus money. Let E be the bonus and L be the lost time.  Thus, we have E + L = 20X1 hour = 5. Let D be the performance bonuses which equals 20 to work for 8 hours, so D = 20 × 1 hour = 40 per hour.  Then the increase in income is E - D = 20 - 5 = 15 per hourPer hour, the answers is 15.question: Rhonda#
+
